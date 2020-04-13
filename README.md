@@ -1,7 +1,19 @@
 # About My Mac
 
+## Homebrew
+[Installation](https://docs.brew.sh/Installation): Super Aaaaaaawesome Package Manager
+
+## Font
+[Installation](https://github.com/ryanoasis/nerd-fonts): Hack Nerd
+
+## Color Scheme
+* [Link](https://github.com/morhetz/gruvbox)
+* [Contribution Link](https://github.com/morhetz/gruvbox-contrib)
+
+
 # Application
 * [Chrome](./application/chrome/README.md)
+* [Sublime Text 3](./application/sublime_text/README.md)
 
 # System Preferences
 [More](system_preferences/README.md)
