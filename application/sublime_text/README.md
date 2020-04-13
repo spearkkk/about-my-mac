@@ -75,6 +75,8 @@
 ### LiveReload for Sublime Text 3
 [Installation](https://packagecontrol.io/packages/LiveReload)
 
+### Kotlin: Highlight Kotlin
+
 # Terminal to Sublime Text 3
 Add to this alias to `~/.zshrc`.
 ```shell

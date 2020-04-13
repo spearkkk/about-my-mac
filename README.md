@@ -1,21 +1,35 @@
 # About My Mac
 
 ## Homebrew
-[Installation](https://docs.brew.sh/Installation): Super Aaaaaaawesome Package Manager
+[Installation](https://docs.brew.sh/Installation): Super Aaaaaaawesome Package Manager  
+If you are use this tool, you can save your time.
 
-## Font
+## Font & Color Scheme
+### Font
 [Installation](https://github.com/ryanoasis/nerd-fonts): Hack Nerd
-
-## Color Scheme
+### Color Scheme
 I prefer `gruvbox` color scheme.
 * [Link](https://github.com/morhetz/gruvbox)
 * [Contribution Link](https://github.com/morhetz/gruvbox-contrib)
 
-
 # Application
-* [Chrome](./application/chrome/README.md): Default Web Brower.
-* [Sublime Text 3](./application/sublime_text/README.md): Default Text Editor, Simple and Fast.
-* [iTerm2](./application/iterm/README.md): Defalt Terminal.
+## Chrome
+Default Web Brower([Link](./application/chrome/README.md)), it has more extension.  
+Specially, I use 1Password extension to fill login information. 
+
+## Alfred
+Default Launcher([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
+* can search anything in my mac.
+* can search something in web without fousing web browser.
+* can store/get in clipboard, text, image, and file.
+* can convert text using snippet.
+* can explore your mac more and more using Workflow.
+## Sublime Text 3
+Default Text Editor([Link](./application/sublime_text/README.md)), it is simple and fast.
+
+## iTerm2
+Defalt Terminal([Link](./application/iterm/README.md)), this is well-known terminal app.  
+You can customize it and set status for mac.
 
 # System Preferences
 [More](system_preferences/README.md)
