@@ -5,8 +5,9 @@
 * [Package](#package)
   + [Markdown Preview](#markdown-preview)
   + [LiveReload for Sublime Text 3](#livereload-for-sublime-text-3)
+* [Terminal to Sublime Text 3](##terminal-to-sublime-text-3)
 
-## Setting
+## Preference
 <details>
   <summary>Expand...</summary>
 
@@ -32,7 +33,6 @@
 ```
 
 </details>
-
 
 ## Theme
 **gruvbox**  
@@ -74,3 +74,9 @@
 
 ### LiveReload for Sublime Text 3
 [Installation](https://packagecontrol.io/packages/LiveReload)
+
+# Terminal to Sublime Text 3
+Add to this alias to `~/.zshrc`.
+```shell
+  alias opens="open -a /Applications/Sublime\ Text.app `pwd`"
+```

@@ -7,13 +7,15 @@
 [Installation](https://github.com/ryanoasis/nerd-fonts): Hack Nerd
 
 ## Color Scheme
+I prefer `gruvbox` color scheme.
 * [Link](https://github.com/morhetz/gruvbox)
 * [Contribution Link](https://github.com/morhetz/gruvbox-contrib)
 
 
 # Application
-* [Chrome](./application/chrome/README.md)
-* [Sublime Text 3](./application/sublime_text/README.md)
+* [Chrome](./application/chrome/README.md): Default Web Brower.
+* [Sublime Text 3](./application/sublime_text/README.md): Default Text Editor, Simple and Fast.
+* [iTerm2](./application/iterm/README.md): Defalt Terminal.
 
 # System Preferences
 [More](system_preferences/README.md)
