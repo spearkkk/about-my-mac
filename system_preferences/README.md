@@ -2,6 +2,11 @@
   * [General](#general)
   * [Dock](#dock)
   * [Mission Control](#mission-control)
+  * [Language&Region](#language-region)
+  * [Spotlight](#spotlight)
+  * [Energy Saver](#energy-saver)
+  * [Keyboard](#keyboard)
+  * [Trackpad](#trackpad)
 ## General
 [Go to Top](#system-preferences)
 ![screentshot_general](general/01.png)
