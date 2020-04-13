@@ -1,37 +1,45 @@
 # Sublime Text 3
 [Installation](https://www.sublimetext.com/3)
+* [Setting](#setting)
+* [Theme](#theme)
+* [Package](#package)
+  + [Markdown Preview](#markdown-preview)
+  + [LiveReload for Sublime Text 3](#livereload-for-sublime-text-3)
 
 ## Setting
 <details>
-  <summary>
-    Expand
-  </summary>
-  ```json
-  {
-    "font_face": "Hack Nerd Font",
-    "font_size": 18,
-    "tab_size": 2,
-    "remember_full_screen": true,
-    "line_numbers": false,
-    "fade_fold_buttons": false,
-    "mini_diff": "auto",
-    "translate_tabs_to_spaces": true,
-    "indent_to_bracket": true,
-    "highlight_line": true,
-    "line_padding_top": 2,
-    "line_padding_bottom": 2,
-    "scroll_speed": 2.0,
-    "highlight_modified_tabs": true,
-    "show_tab_close_buttons": false,
-    "bold_folder_labels": true,
-  }
-  ```
+  <summary>Expand...</summary>
+
+```json
+{
+ "font_face": "Hack Nerd Font",
+ "font_size": 18,
+ "tab_size": 2,
+ "remember_full_screen": true,
+ "line_numbers": false,
+ "fade_fold_buttons": false,
+ "mini_diff": "auto",
+ "translate_tabs_to_spaces": true,
+ "indent_to_bracket": true,
+ "highlight_line": true,
+ "line_padding_top": 2,
+ "line_padding_bottom": 2,
+ "scroll_speed": 2.0,
+ "highlight_modified_tabs": true,
+ "show_tab_close_buttons": false,
+ "bold_folder_labels": true,
+}
+```
+
 </details>
 
 
 ## Theme
 **gruvbox**  
 [Installation](https://github.com/Briles/gruvbox)
+<details>
+  <summary>Expand...</summary>
+
 ```json
 {
   "theme": "gruvbox.sublime-theme",
@@ -56,6 +64,9 @@
   "gruvbox_tabs_xxs": true,
 }
 ```
+
+</details>
+
 
 ## Package
 ### Markdown Preview
