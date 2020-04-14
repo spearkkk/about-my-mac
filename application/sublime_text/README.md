@@ -1,11 +1,18 @@
-# Sublime Text 3
-[Installation](https://www.sublimetext.com/3)
+### Index
 * [Setting](#setting)
 * [Theme](#theme)
 * [Package](#package)
   + [Markdown Preview](#markdown-preview)
   + [LiveReload for Sublime Text 3](#livereload-for-sublime-text-3)
 * [Terminal to Sublime Text 3](##terminal-to-sublime-text-3)
+
+# Sublime Text 3
+I use two editor to write somethig, Notion and [Sublime Text](https://www.sublimetext.com/3).  
+Notion has unlimited feature and is pretty good.  
+But Notion is not fast as much as I expect.  
+
+Sublime Text is fast and simple so I prefer to write something temporary.
+And I am editing this documents using Sublime Text.
 
 ## Preference
 <details>
@@ -31,7 +38,6 @@
  "bold_folder_labels": true,
 }
 ```
-
 </details>
 
 ## Theme
@@ -64,21 +70,20 @@
   "gruvbox_tabs_xxs": true,
 }
 ```
-
 </details>
 
-
 ## Package
-### Markdown Preview
-[Installation](https://packagecontrol.io/packages/MarkdownPreview)
+* [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview): Preview for markdwon.
+* [LiveReload for Sublime Text 3](https://packagecontrol.io/packages/LiveReload): Not need to refresh anymore.
+* Kotlin: Highlight Kotlin.
+[Go to Top](#index)
 
-### LiveReload for Sublime Text 3
-[Installation](https://packagecontrol.io/packages/LiveReload)
-
-### Kotlin: Highlight Kotlin
+---
 
 # Terminal to Sublime Text 3
 Add to this alias to `~/.zshrc`.
 ```shell
-  alias opens="open -a /Applications/Sublime\ Text.app `pwd`"
+  alias open-here="open -a /Applications/Sublime\ Text.app `pwd`"
+  alias open-there="open -a /Applications/Sublime\ Text.app `pbpaste`"
 ```
+[Go to Top](#index)

@@ -50,7 +50,8 @@ You can customize it and set status for mac.
 
 ---  
 # System Preferences
-[More](system_preferences/README.md)  
+There are just screenshots to set 'System Preferences'.  
+If you want to see ... [More](system_preferences/README.md)  
 [Go to Top](#index)
 
 ---  
