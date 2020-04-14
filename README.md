@@ -16,23 +16,23 @@
   * [Screenshot](#screenshot)
 
 # About My Mac
-[Go to Top](#index)
-
 ## Homebrew
-[Installation](https://docs.brew.sh/Installation): Super Aaaaaaawesome Package Manager  
-If you are use this tool, you can save your time.
+This is **'Super Awwwwwwwwesome'** package manager.  
+If you are use this tool, you can save your time.  
+[Installation](https://docs.brew.sh/Installation)
 
 ## Font & Color Scheme
-### Font
-[Installation](https://github.com/ryanoasis/nerd-fonts): Hack Nerd
-### Color Scheme
-I prefer `gruvbox` color scheme.
-* [Link](https://github.com/morhetz/gruvbox)
-* [Contribution Link](https://github.com/morhetz/gruvbox-contrib)
+**Font**  
+There are many fonts in this world, but I prefer 'Hack Nerd' font.  
+[Installation](https://github.com/ryanoasis/nerd-fonts)  
+**Color Scheme**  
+I prefer `gruvbox` color scheme. You can see color scheme [here](https://github.com/morhetz/gruvbox) 
+and use [contribution](https://github.com/morhetz/gruvbox-contrib)
+
+[Go to Top](/#index)
+---
 
 # Application
-[Go to Top](#index)
-
 ## Chrome
 Default Web Brower([Link](./application/chrome/README.md)), it has more extension.  
 Specially, I use 1Password extension to fill login information. 
@@ -50,15 +50,15 @@ Default Text Editor([Link](./application/sublime_text/README.md)), it is simple 
 ## iTerm2
 Defalt Terminal([Link](./application/iterm/README.md)), this is well-known terminal app.  
 You can customize it and set status for mac.
+[Go to Top](#index)
+---  
 
 # System Preferences
-[Go to Top](#index)
-
 [More](system_preferences/README.md)
+[Go to Top](#index)
+---  
 
 # Terminal Tweaks
-[Go to Top](#index)
-
 ## Quick Look
 ### Animation
 **Apply**
@@ -131,3 +131,5 @@ Default: ~/Desktop
 ```shell
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
 ```
+[Go to Top](#index)
+---  
