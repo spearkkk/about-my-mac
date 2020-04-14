@@ -4,22 +4,19 @@
   * [Theme](#theme)
 - [zsh](#zsh)
   * [Command Line Tools](#command-line-tools)
-  
-# Iterm 2
-Default terminal is not good to me. I just use [iTerm2](https://iterm2.com/downloads.html).
 
-## Setting from iCloud
-`iCloud/application/iterm/`
+# Iterm 2
+Default terminal is not good to me. I just use [iTerm2](https://iterm2.com/downloads.html).  
+**Setting from iCloud**: `iCloud/application/iterm/`  
 
 ## Theme
-**gruvbox**  
-[Installation](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)
+I set color scheme as **gruvbox**. I referred this [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors).  
 [Go to Top](#index)
 
 ---
 # zsh
 `zsh` is alternative to bash. Actuall I installed `fish` but It is akward to me.
-So I prefer [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH).
+So I prefer [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH).  
 Just do it if you have Homebrew.
 
 ```shell
@@ -40,5 +37,6 @@ Just do it if you have Homebrew.
 * [pyenv](https://github.com/pyenv/pyenv#homebrew-on-macos): Python Version Manager.
 * [virtualenv](https://github.com/pyenv/pyenv-virtualenv): Virtual Environment for Python.
 * [nvm](https://github.com/nvm-sh/nvm): Node Version Manger.
+  
 [Go to Top](#index)
 

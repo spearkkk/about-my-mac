@@ -22,7 +22,7 @@ There are many fonts in this world, but I prefer 'Hack Nerd' font: [Installation
 
 **Color Scheme**  
 I prefer `gruvbox` color scheme. You can see color scheme [here](https://github.com/morhetz/gruvbox) 
-and use [contribution](https://github.com/morhetz/gruvbox-contrib)
+and use [contribution](https://github.com/morhetz/gruvbox-contrib).
 
 [Go to Top](#index)
 
@@ -45,13 +45,13 @@ Specially, I use 1Password extension to fill login information.
 
 ## iTerm2
 **Defalt Terminal**([Link](./application/iterm/README.md)), this is well-known terminal app.  
-You can customize it and set status for mac.
+You can customize it and set status for mac.  
 [Go to Top](#index)
 
 ---  
 # System Preferences
 There are just screenshots to set 'System Preferences'.  
-If you want to see ... [More](system_preferences/README.md)  
+If you want to see [more](system_preferences/README.md) ...  
 [Go to Top](#index)
 
 ---  

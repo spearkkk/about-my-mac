@@ -41,8 +41,8 @@ And I am editing this documents using Sublime Text.
 </details>
 
 ## Theme
-**gruvbox**  
-[Installation](https://github.com/Briles/gruvbox)
+I set color scheme as **gruvbox**. I referred this [contribution](https://github.com/Briles/gruvbox).  
+
 <details>
   <summary>Expand...</summary>
 
