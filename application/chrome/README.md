@@ -1,8 +1,7 @@
 # Chrome
 [Installation](https://www.google.com/chrome/)
 ## Theme
-**Camo**: This is simple and modern theme.  
-[Installation](https://chrome.google.com/webstore/detail/camo/mlkdlonndpcdkfdinngnoiddngiagiph)
+**Camo**[Installation](https://chrome.google.com/webstore/detail/camo/mlkdlonndpcdkfdinngnoiddngiagiph): This is simple and modern theme.  
 ![screenshot_chrome](01.png)
 # Extension
 * 1Password: To fill login information automatically.
