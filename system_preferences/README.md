@@ -1,4 +1,4 @@
-# System Preferences
+### Index
   * [General](#general)
   * [Dock](#dock)
   * [Mission Control](#mission-control)
@@ -7,37 +7,53 @@
   * [Energy Saver](#energy-saver)
   * [Keyboard](#keyboard)
   * [Trackpad](#trackpad)
+
+# System Preferences
 ## General
-[Go to Top](#system-preferences)
 ![screentshot_general](general/01.png)
+[Go to Top](#index)
+
+---
 ## Dock
-[Go to Top](#system-preferences)
 ![screentshot_dock](dock/01.png)
+[Go to Top](#index)
+
+---
 ## Mission Control
-[Go to Top](#system-preferences)
 ![screentshot_mission_control](mission_control/01.png)
 ![screentshot_mission_control](mission_control/02.png)
+[Go to Top](#index)
+
+---
 ## Language&Region 
-[Go to Top](#system-preferences)
 ![screentshot_language__region](language__region/01.png)
 ![screentshot_language__region](language__region/02.png)
 ![screentshot_language__region](language__region/03.png)
+[Go to Top](#index)
+
+---
 ## Spotlight 
-[Go to Top](#system-preferences)
 ![screentshot_spotlight](spotlight/01.png)
+[Go to Top](#index)
+
+---
 ## Energy Saver 
-[Go to Top](#system-preferences)
 ![screentshot_energy_saver](energy_saver/01.png)
 ![screentshot_energy_saver](energy_saver/02.png)
+[Go to Top](#index)
+
+---
 ## Keyboard 
-[Go to Top](#system-preferences)
 ![screentshot_keyboard](keyboard/01.png)
 ![screentshot_keyboard](keyboard/02.png)
 ![screentshot_keyboard](keyboard/03.png)
 ![screentshot_keyboard](keyboard/04.png)
 ![screentshot_keyboard](keyboard/05.png)
+[Go to Top](#index)
+
+---
 ## Trackpad 
-[Go to Top](#system-preferences)
 ![screentshot_trackpad](trackpad/01.png)
 ![screentshot_trackpad](trackpad/02.png)
 ![screentshot_trackpad](trackpad/03.png)
+[Go to Top](#index)
