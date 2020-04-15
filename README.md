@@ -24,11 +24,13 @@
 
 # About My Mac
 ## Homebrew
+
 This is **'Super Awwwwwwwwesome'** package manager.  
 If you are use this tool, you can save your time.  
 [Installation](https://docs.brew.sh/Installation)
 
 ## Font & Color Scheme
+
 **Font**  
 There are many fonts in this world, but I prefer 'Hack Nerd' font: [Installation](https://github.com/ryanoasis/nerd-fonts)
 
@@ -52,10 +54,25 @@ This is **Default Launcher**([Link](./application/alfred/README.md)), it has mor
 
 ## Better Touch Tool
 
+All inputs through mac can customized as you want if you have **Better Touch Tool**.  
+
+I have a another keyboard, but sometimes I have to use keyboard of this mac.  
+When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
+So I just mapped number key to function using [this app](./application/better_touch_tool/README.md).
+
 ## Contexts
+
+Contexts manages all windows and application in my mac.  
+When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
+Or when you want to switch windows between in a application, you press <kbd>command</kbd> + <kbd>\`</kbd>.  
+But if you have more windows as a full screen, the switching is not working as you want. 
+
+[Contexts](https://contexts.co/) enable to switch windows as I want.  
+Just try to use this app. :D
 
 > **Utility**  
 ## Chrome
+
 This is **Default Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
 Specially, I use 1Password extension to fill login information. 
 
