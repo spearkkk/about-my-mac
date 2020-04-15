@@ -14,7 +14,6 @@
   * [Dozer](#dozer)
   * [App Cleaner](#app-cleaner)
   * [Spotify & Boom 3D & BeardedSpice](#spotify---boom-3d---beardedspice)
-  * [](#beardedspice)
   * [iMazing](#imazing)
   * [iTerm2](#iterm2)
   * [Sublime Text 3](#sublime-text-3)
@@ -42,7 +41,7 @@ and use [contribution](https://github.com/morhetz/gruvbox-contrib).
 ---
 # Application
 
-**Productivity**  
+> **Productivity**  
 ## Alfred
 This is **Default Launcher**([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
 * can search anything in my mac.
@@ -55,7 +54,7 @@ This is **Default Launcher**([Link](./application/alfred/README.md)), it has mor
 
 ## Contexts
 
-**Utility**  
+> **Utility**  
 ## Chrome
 This is **Default Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
 Specially, I use 1Password extension to fill login information. 
@@ -76,7 +75,7 @@ Specially, I use 1Password extension to fill login information.
 
 ## iMazing
 
-**Develop**  
+> **Develop**  
 ## iTerm2
 This is **Defalt Terminal**([Link](./application/iterm/README.md)), this is well-known terminal app.  
 You can customize it and set status for mac.  
