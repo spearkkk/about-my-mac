@@ -3,10 +3,10 @@
   * [Homebrew](#homebrew)
   * [Font & Color Scheme](#font--color-scheme)
 - [Application: Productivity](#application--productivity)
-  * [Alfred 🕺](#alfred)
-  * [Better Touch Tool 👯‍♂️](#better-touch-tool)
-  * [Contexts 👯](#contexts)
-  * [Things 3 😟](#things-3)
+  * [Alfred 🕺](#alfred-)
+  * [Better Touch Tool 👯‍♂️](#better-touch-tool-)
+  * [Contexts 👯](#contexts-)
+  * [Things 3 😟](#things-3-)
 - [Application: Utility](#application--utility)
   * [Chrome](#chrome)
   * [1Passowrd](#1passowrd)
@@ -242,4 +242,5 @@ Default: ~/Desktop
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
 ```
 </details>
+
 [Go to Top](#index)  
