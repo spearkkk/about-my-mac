@@ -1,7 +1,7 @@
 ### Index
 - [About My Mac](#about-my-mac)
   * [Homebrew](#homebrew)
-  * [Font & Color Scheme](#font---color-scheme)
+  * [Font & Color Scheme](#font--color-scheme)
 - [Application](#application)
   * [Alfred](#alfred)
   * [Better Touch Tool](#better-touch-tool)
@@ -13,7 +13,7 @@
   * [Amphetamine](#amphetamine)
   * [Dozer](#dozer)
   * [App Cleaner](#app-cleaner)
-  * [Spotify & Boom 3D & BeardedSpice](#spotify---boom-3d---beardedspice)
+  * [Spotify & Boom 3D & BeardedSpice](#spotify--boom-3d--beardedspice)
   * [iMazing](#imazing)
   * [iTerm2](#iterm2)
   * [Sublime Text 3](#sublime-text-3)
