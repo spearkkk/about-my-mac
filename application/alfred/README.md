@@ -1,4 +1,7 @@
 ### Index
+- [Alfred](#alfred)
+  * [Theme](#theme)
+- [Workflows](#workflows)
 
 # Alfred
 This is awesome launcher app. You would be happy if you install [Alfred 3](https://www.alfredapp.com/).  
@@ -6,7 +9,7 @@ This is awesome launcher app. You would be happy if you install [Alfred 3](https
 
 ## Theme
 I revised color and font for [appearence](./gruvbox_dark.alfredappearance) based on **gruvbox**.  
-!! You must should install 'Hack Nerd' [font](../../../../#font--color-scheme) if you use this appearence.  
+!! You must should install **'Hack Nerd'** [font](../../../../#font--color-scheme) if you use this appearence.  
 ![appearence](./alfred_appearence.gif)
 
 [Go to Top](#index)
@@ -22,3 +25,5 @@ Workflows is good to me but sometimes it is hard to find nice workflows.
 
 I searched in goolge and github, and I make a note to keep workflows.  
 If you want to see [more](../../../../../alfred-workflow)...
+
+[Go to Top](#index)
