@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 18,
+        "colorSelected" : "#D79921FF",
+        "font" : "Hack Nerd Font Mono",
+        "color" : "#D4C4A1FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#D79921FF",
+        "font" : "Hack Nerd Font Mono",
+        "color" : "#D79921FF"
+      },
+      "backgroundSelected" : "#7C6F64C4",
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#D79921FF",
+        "font" : "Hack Nerd Font Mono",
+        "color" : "#D4C4A1FF"
+      },
+      "iconPaddingHorizontal" : 3,
+      "paddingVertical" : 5,
+      "iconSize" : 45
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#27282700",
+      "spacing" : 7,
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#504944FF",
+        "font" : "Hack Nerd Font Mono",
+        "color" : "#D4C4A1FF"
+      },
+      "backgroundSelected" : "#D4C4A1FF"
+    },
+    "window" : {
+      "color" : "#504944C4",
+      "paddingHorizontal" : 5,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 5,
+      "paddingVertical" : 5
+    },
+    "credit" : "spearkkk",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Gruvbox-Dark"
+  }
+}

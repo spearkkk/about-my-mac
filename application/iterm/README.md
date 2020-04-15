@@ -6,7 +6,7 @@
   * [Command Line Tools](#command-line-tools)
 
 # Iterm 2
-Default terminal is not good to me. I just use [iTerm2](https://iterm2.com/downloads.html).  
+Default terminal app is not good to me. I just use [iTerm2](https://iterm2.com/downloads.html).  
 **Setting from iCloud**: `iCloud/application/iterm/`  
 
 ## Theme
