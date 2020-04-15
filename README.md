@@ -3,10 +3,23 @@
   * [Homebrew](#homebrew)
   * [Font & Color Scheme](#font---color-scheme)
 - [Application](#application)
-  * [Chrome](#chrome)
   * [Alfred](#alfred)
-  * [Sublime Text 3](#sublime-text-3)
+  * [Better Touch Tool](#better-touch-tool)
+  * [Contexts](#contexts)
+  * [Chrome](#chrome)
+  * [1Passowrd](#1passowrd)
+  * [Things 3](#things-3)
+  * [Spark](#spark)
+  * [Amphetamine](#amphetamine)
+  * [Dozer](#dozer)
+  * [App Cleaner](#app-cleaner)
+  * [Spotify & Boom 3D & BeardedSpice](#spotify---boom-3d---beardedspice)
+  * [](#beardedspice)
+  * [iMazing](#imazing)
   * [iTerm2](#iterm2)
+  * [Sublime Text 3](#sublime-text-3)
+  * [IDEA](#idea)
+  * [Paw](#paw)
 - [System Preferences](#system-preferences)
 - [Terminal Tweaks](#terminal-tweaks)
 
@@ -28,24 +41,52 @@ and use [contribution](https://github.com/morhetz/gruvbox-contrib).
 
 ---
 # Application
-## Chrome
-**Default Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
-Specially, I use 1Password extension to fill login information. 
 
+**Productivity**  
 ## Alfred
-**Default Launcher**([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
+This is **Default Launcher**([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
 * can search anything in my mac.
 * can search something in web without fousing web browser.
 * can store/get in clipboard, text, image, and file.
 * can convert text using snippet.
 * can explore your mac more and more using Workflow.
 
-## Sublime Text 3
-**Default Text Editor**([Link](./application/sublime_text/README.md)), it is simple and fast.
+## Better Touch Tool
 
+## Contexts
+
+**Utility**  
+## Chrome
+This is **Default Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
+Specially, I use 1Password extension to fill login information. 
+
+## 1Passowrd
+
+## Things 3
+
+## Spark
+
+## Amphetamine
+
+## Dozer
+
+## App Cleaner
+
+## Spotify & Boom 3D & BeardedSpice
+
+## iMazing
+
+**Develop**  
 ## iTerm2
-**Defalt Terminal**([Link](./application/iterm/README.md)), this is well-known terminal app.  
+This is **Defalt Terminal**([Link](./application/iterm/README.md)), this is well-known terminal app.  
 You can customize it and set status for mac.  
+
+## Sublime Text 3
+This is **Default Text Editor**([Link](./application/sublime_text/README.md)), it is simple and fast.
+
+## IDEA
+
+## Paw
 [Go to Top](#index)
 
 ---  
