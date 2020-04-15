@@ -44,7 +44,7 @@ and use [contribution](https://github.com/morhetz/gruvbox-contrib).
 # Application
 
 > **Productivity**  
-## Alfred
+## Alfred 🕺
 This is **Default Launcher**([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
 * can search anything in my mac.
 * can search something in web without fousing web browser.
@@ -52,7 +52,7 @@ This is **Default Launcher**([Link](./application/alfred/README.md)), it has mor
 * can convert text using snippet.
 * can explore your mac more and more using Workflow.
 
-## Better Touch Tool
+## Better Touch Tool 👯‍♂️
 
 All inputs through mac can customized as you want if you have **Better Touch Tool**.  
 
@@ -60,7 +60,7 @@ I have a another keyboard, but sometimes I have to use keyboard of this mac.
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
 So I just mapped number key to function using [this app](./application/better_touch_tool/README.md).
 
-## Contexts
+## Contexts 👯 
 
 Contexts manages all windows and application in my mac.  
 When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
@@ -68,7 +68,20 @@ Or when you want to switch windows between in a application, you press <kbd>comm
 But if you have more windows as a full screen, the switching is not working as you want. 
 
 [Contexts](https://contexts.co/) enable to switch windows as I want.  
-Just try to use this app. :D
+Just try to use this app.
+
+## Things 3 😟
+
+Have you heard *GTD*? 
+> 'Getting Things Done' is a time management method, ...  
+>  from wikipedia
+
+When you are focusing on something, there are times when an idea suddenly comes to mind.  
+You do not have to worry about missing that idea anymore.
+
+1. Just put idea in [Things](https://culturedcode.com/things/).
+2. Get it from Things if you have time.
+3. Do it
 
 > **Utility**  
 ## Chrome
@@ -78,13 +91,28 @@ Specially, I use 1Password extension to fill login information.
 
 ## 1Passowrd
 
-## Things 3
+If you stil rememeber you **password**, **license**, and **some secret thing**   
+or write them to note app/a piece of papepr, 
+You can write them into [1Password](https://1password.com/) and get them when/what you want.
+
+This app also supports IOS, web, and Andorid.
 
 ## Spark
 
+Email clients, That is all.
+
 ## Amphetamine
 
+This [app](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12) keep mac awake.  
+I know there are many app and workflows.  
+But this is simple and good to me.
+
 ## Dozer
+
+You know [Bartender3](https://www.macbartender.com/). Dozer can hides status icon too.
+There is two point and you just drag it to hide icon.
+
+[Dozer](https://github.com/Mortennn/Dozer) is free.
 
 ## App Cleaner
 
