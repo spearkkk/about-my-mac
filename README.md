@@ -2,12 +2,12 @@
 - [About My Mac](#about-my-mac)
   * [Homebrew](#homebrew)
   * [Font & Color Scheme](#font--color-scheme)
-- [Application: Productivity](#application--productivity)
+- [Application: Productivity](#application-productivity)
   * [Alfred 🕺](#alfred-)
   * [Better Touch Tool 👯‍♂️](#better-touch-tool-)
   * [Contexts 👯](#contexts-)
   * [Things 3 😟](#things-3-)
-- [Application: Utility](#application--utility)
+- [Application: Utility](#application-utility)
   * [Chrome](#chrome)
   * [1Passowrd](#1passowrd)
   * [Spark](#spark)
@@ -15,7 +15,7 @@
   * [Dozer](#dozer)
   * [Spotify & Boom 3D & BeardedSpice](#spotify--boom-3d--beardedspice)
   * [iMazing](#imazing)
-- [Application: Develop](#application--develop)
+- [Application: Develop](#application-develop)
   * [iTerm2](#iterm2)
   * [Sublime Text 3](#sublime-text-3)
   * [IDEA](#idea)
@@ -26,14 +26,13 @@
 # About My Mac
 ## Homebrew
 
-This is **'Super Awwwwwwwwesome'** package manager.  
-If you are use this tool, you can save your time.  
-[Installation](https://docs.brew.sh/Installation)
+This is **'Super Awwwwwwwwesome'** [package manager](https://docs.brew.sh/Installation).  
+If you are use this tool, you can save your time.
 
 ## Font & Color Scheme
 
 **Font**  
-There are many fonts in this world, but I prefer 'Hack Nerd' font: [Installation](https://github.com/ryanoasis/nerd-fonts)
+There are many fonts in this world, but I prefer '[Hack Nerd]((https://github.com/ryanoasis/nerd-fonts))' font.
 
 **Color Scheme**  
 I prefer `gruvbox` color scheme. You can see color scheme [here](https://github.com/morhetz/gruvbox) 
@@ -69,7 +68,7 @@ However, there are so many workflows and some of them will be not updated.
 Workflows is good to me but sometimes it is hard to find nice workflows.  
 
 I searched in goolge and github, and I make a note to keep workflows.  
-If you want to see [more](../alfred-workflow)...
+If you want to see [more](../../../alfred-workflow)...
 
 ## Better Touch Tool 👯‍♂️
 
@@ -106,16 +105,16 @@ You do not have to worry about missing that idea anymore.
 
 ## Chrome
 
-This is **Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
+This is **Web Brower**, it has more extension.  
 Specially, I use 1Password extension to fill login information. 
 
-**Camo Theme** - [Installation](https://chrome.google.com/webstore/detail/camo/mlkdlonndpcdkfdinngnoiddngiagiph): This is simple and modern theme.  
+**Camo Theme**: This is simple and modern [theme](https://chrome.google.com/webstore/detail/camo/mlkdlonndpcdkfdinngnoiddngiagiph).  
 ![screenshot_chrome](chrome_01.png)
 
 ## 1Passowrd
 
 If you stil rememeber you **password**, **license**, and **some secret thing**   
-or write them to note app/a piece of papepr, 
+or write them to note app/a piece of papepr,  
 You can write them into [1Password](https://1password.com/) and get them when/what you want.
 
 This app also supports IOS, web, and Andorid.
@@ -126,7 +125,7 @@ Email clients, That's all.
 
 ## Amphetamine
 
-This [app](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12) **keeps awake mac**.  
+[Amphetamine](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12) **keeps awake mac**.  
 I know there are many app and workflows.  
 But this is simple and good to me.
 
@@ -135,7 +134,7 @@ But this is simple and good to me.
 You know [Bartender3](https://www.macbartender.com/). Dozer can **hides status icon** too.  
 There are two points and you just drag it to hide icon.
 
-[Dozer](https://github.com/Mortennn/Dozer) is free.
+Dozer is in [here](https://github.com/Mortennn/Dozer).
 
 ## Spotify & Boom 3D & BeardedSpice
 
@@ -146,6 +145,7 @@ There are two points and you just drag it to hide icon.
 If you want to **transfer file to your iPhone**,  
 And if you want to **make back-up for iPhone**,  
 And if you are still using iTunes,  
+
 You can use [iMazing](https://imazing.com/)(or [Waltr](https://softorino.com/waltr/)).
 
 # Application: Develop
@@ -189,7 +189,7 @@ I use two editor to write somethig, Notion and [Sublime Text](https://www.sublim
 Notion has unlimited feature and is pretty good.  
 But Notion is not fast as much as I expect.  
 
-Sublime Text is fast and simple so I prefer to write something temporary.
+Sublime Text is fast and simple so I prefer to write something temporary.  
 And I am editing this documents using Sublime Text.
 
 ### Preference
