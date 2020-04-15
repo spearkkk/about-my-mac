@@ -99,18 +99,18 @@ This app also supports IOS, web, and Andorid.
 
 ## Spark
 
-Email clients, That is all.
+Email clients, That's all.
 
 ## Amphetamine
 
-This [app](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12) keep mac awake.  
+This [app](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12) keeps awake mac.  
 I know there are many app and workflows.  
 But this is simple and good to me.
 
 ## Dozer
 
-You know [Bartender3](https://www.macbartender.com/). Dozer can hides status icon too.
-There is two point and you just drag it to hide icon.
+You know [Bartender3](https://www.macbartender.com/). Dozer can hides status icon too.  
+There are two points and you just drag it to hide icon.
 
 [Dozer](https://github.com/Mortennn/Dozer) is free.
 
