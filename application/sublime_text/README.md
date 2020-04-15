@@ -83,7 +83,7 @@ I set color scheme as **gruvbox**. I referred this [contribution](https://github
 # Terminal to Sublime Text 3
 Add to this alias to `~/.zshrc`.
 ```shell
-  alias open-here="open -a /Applications/Sublime\ Text.app `pwd`"
-  alias open-there="open -a /Applications/Sublime\ Text.app `pbpaste`"
+  alias open-here="open -a /Applications/Sublime\ Text.app \`pwd\`"
+  alias open-there="open -a /Applications/Sublime\ Text.app \`pbpaste\`"
 ```
 [Go to Top](#index)

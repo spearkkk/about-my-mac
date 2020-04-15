@@ -147,5 +147,4 @@ Default: ~/Desktop
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
 ```
 </details>
-
 [Go to Top](#index)  
