@@ -2,19 +2,20 @@
 - [About My Mac](#about-my-mac)
   * [Homebrew](#homebrew)
   * [Font & Color Scheme](#font--color-scheme)
-- [Application](#application)
-  * [Alfred](#alfred)
-  * [Better Touch Tool](#better-touch-tool)
-  * [Contexts](#contexts)
+- [Application: Productivity](#application--productivity)
+  * [Alfred 🕺](#alfred)
+  * [Better Touch Tool 👯‍♂️](#better-touch-tool)
+  * [Contexts 👯](#contexts)
+  * [Things 3 😟](#things-3)
+- [Application: Utility](#application--utility)
   * [Chrome](#chrome)
   * [1Passowrd](#1passowrd)
-  * [Things 3](#things-3)
   * [Spark](#spark)
   * [Amphetamine](#amphetamine)
   * [Dozer](#dozer)
-  * [App Cleaner](#app-cleaner)
   * [Spotify & Boom 3D & BeardedSpice](#spotify--boom-3d--beardedspice)
   * [iMazing](#imazing)
+- [Application: Develop](#application--develop)
   * [iTerm2](#iterm2)
   * [Sublime Text 3](#sublime-text-3)
   * [IDEA](#idea)
@@ -41,9 +42,8 @@ and use [contribution](https://github.com/morhetz/gruvbox-contrib).
 [Go to Top](#index)
 
 ---
-# Application
+# Application: Productivity
 
-> **Productivity**  
 ## Alfred 🕺
 This is **Default Launcher**([Link](./application/alfred/README.md)), it has more feature than Spotlight.  
 * can search anything in my mac.
@@ -58,7 +58,7 @@ All inputs through mac can customized as you want if you have **Better Touch Too
 
 I have a another keyboard, but sometimes I have to use keyboard of this mac.  
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
-So I just mapped number key to function using [this app](./application/better_touch_tool/README.md).
+So I just mapped number key to function using [Better Touch Tool](./application/better_touch_tool/README.md).
 
 ## Contexts 👯 
 
@@ -79,11 +79,12 @@ Have you heard *GTD*?
 When you are focusing on something, there are times when an idea suddenly comes to mind.  
 You do not have to worry about missing that idea anymore.
 
-1. Just put idea in [Things](https://culturedcode.com/things/).
-2. Get it from Things if you have time.
-3. Do it
+1. Just put in idea, [Things](https://culturedcode.com/things/).
+2. Get it from Things when you want.
+3. Do it.
 
-> **Utility**  
+# Application: Utility
+
 ## Chrome
 
 This is **Default Web Brower**([Link](./application/chrome/README.md)), it has more extension.  
@@ -114,14 +115,18 @@ There are two points and you just drag it to hide icon.
 
 [Dozer](https://github.com/Mortennn/Dozer) is free.
 
-## App Cleaner
-
 ## Spotify & Boom 3D & BeardedSpice
+
+**Spotify** is music player, **Boom 3d** is for equalizing, and **BeardedSpice** is to control player in global.
 
 ## iMazing
 
-> **Develop**  
+To back-up/transfer for iPhone.
+
+# Application: Develop
+
 ## iTerm2
+
 This is **Defalt Terminal**([Link](./application/iterm/README.md)), this is well-known terminal app.  
 You can customize it and set status for mac.  
 
@@ -130,7 +135,12 @@ This is **Default Text Editor**([Link](./application/sublime_text/README.md)), i
 
 ## IDEA
 
+[Intellij](./application/intellij/README.md) has integration tool to develop something.  
+And you can customize it.
+
 ## Paw
+Alternative to Postman.
+
 [Go to Top](#index)
 
 ---  
