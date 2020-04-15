@@ -4,7 +4,7 @@
   * [Font & Color Scheme](#font--color-scheme)
 - [Application: Productivity](#application-productivity)
   * [Alfred 🕺](#alfred-)
-  * [Better Touch Tool 👯‍♂️](#better-touch-tool-)
+  * [Better Touch Tool 👯‍♂️](#better-touch-tool-%EF%B8%8F)
   * [Contexts 👯](#contexts-)
   * [Things 3 😟](#things-3-)
 - [Application: Utility](#application-utility)
