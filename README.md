@@ -1,10 +1,10 @@
 ### Index
 1. Install [Chrome](#chrome)
-2. Install [Sublime Text](#sumblime-text)
+2. Install [Sublime Text](#sumblime-text)🔐
 3. Install [Dropbox](https://www.dropbox.com/)
-4. Install [Alfred](#alfred)
-5. Install [Better Touch Tool](#better-touch-tool)
-6. Install [Contexts](#contexts)
+4. Install [Alfred](#alfred)🔐,☁️
+5. Install [Better Touch Tool](#better-touch-tool)☁️
+6. Install [Contexts](#contexts)☁️
 7. Install [Iterm](#iterm)
 8. Install [Thing3](#thing3)
 9. Install [1Password](#1password)
@@ -21,7 +21,7 @@
 20. Install [IDEA](#idea)
 21. Install [CMDs](#cmds)
 22. Install [Dozer](https://github.com/Mortennn/Dozer)
-23. Install [Imazing](https://imazing.com/)
+23. Install [Imazing](https://imazing.com/)🔐
 24. Install [Boom 3D](https://www.globaldelight.com/boom/)
 25. Install [BeardedSpice](https://beardedspice.github.io/)
 26. Install Spotify
@@ -138,17 +138,19 @@ defaults write com.apple.screencapture location /drag/location/here; killall Sys
 </details>
 
 ## Chrome
-Change `Sync and Google services`
-Set `Font size`: 'Large'
-Set `Show warning before quitting with ⌘Q`: disabled
+Change `Sync and Google services`  
+Set `Font size`: 'Large'  
+Set `Show warning before quitting with ⌘Q`: disabled  
 
-## Sublime Text 🔐
+## Sublime Text
 [Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
 I use two editor to write something.  
 
 1. Install 'Package Controll'
 2. Install Package 'A File Icon'
 3. Install Package 'gruvbox'
+
+[Go to the Top](#index)
 
 ### Setting
 <details>
@@ -206,7 +208,9 @@ I use two editor to write something.
 ```
 </details>
 
-## Alfred 🔐, ☁️
+[Go to the Top](#index)
+
+## Alfred
 [Alfred](https://www.alfredapp.com/) is **awesome launcher app**.  
 It has more feature than Spotlight.  
 * can search anything in my mac.
@@ -230,14 +234,18 @@ Workflows is good to me but sometimes it is hard to find nice workflows.
 I searched in goolge and github, and I make a note to keep workflows.  
 If you want to see [more](../../../alfred-workflow)...
 
-## Better Touch Tool ☁️
+[Go to the Top](#index)
+
+## Better Touch Tool
 All inputs through mac can customized as you want if you have **Better Touch Tool**.  
 
 I have a another keyboard, but sometimes I have to use keyboard of this mac.  
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
 So I just mapped number key to function using [Better Touch Tool](https://folivora.ai/).
 
-## Contexts ☁️
+[Go to the Top](#index)
+
+## Contexts
 Contexts manages all windows and application in my mac.  
 When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
 Or when you want to switch windows between in a application, you press <kbd>command</kbd> + <kbd>\`</kbd>.  
@@ -246,11 +254,15 @@ But if you have more windows as a full screen, the switching is not working as y
 [Contexts](https://contexts.co/) enable to **switch windows as I want**.  
 Just try to use this app.
 
+[Go to the Top](#index)
+
 ## Iterm
 This is **Terminal app**, [iTerm2](https://iterm2.com/downloads.html).  
 This is well-known terminal app. You can customize it and set status for mac.  
 And the **Theme**, 
 I set color scheme as **gruvbox**. I referred this [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors).  
+
+[Go to the Top](#index)
 
 ## Things
 Have you heard *GTD*? 
@@ -264,12 +276,16 @@ You do not have to worry about missing that idea anymore.
 2. Get it from Things when you want.
 3. Do it.
 
+[Go to the Top](#index)
+
 ## 1Paswword
 If you stil rememeber you **password**, **license**, and **some secret thing**   
 or write them to note app/a piece of papepr,  
 You can write them into [1Password](https://1password.com/) and get them when/what you want.
 
 This app also supports IOS, web, and Andorid.
+
+[Go to the Top](#index)
 
 ## Homebrew
 This is **'Super Awwwwwwwwesome'** package manager, [Homebrew](https://docs.brew.sh/Installation).  
@@ -301,3 +317,5 @@ If you are use this tool, you can save your time.
 - [fd](https://github.com/sharkdp/fd): `brew install fd`
 - [jvm](https://velog.io/@spearkkk/Usage-jEnv-in-Fish)
 - kotlin: `brew install kotlin`
+
+[Go to the Top](#index)
