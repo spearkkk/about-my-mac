@@ -6,7 +6,7 @@
 5. Install [Better Touch Tool](#better-touch-tool)☁️
 6. Install [Contexts](#contexts)☁️
 7. Install [Iterm](#iterm)
-8. Install [Things3](#things)
+8. Install [Things3](#things3)
 9. Install [1Password](#1password)
 10. Install [Spark](https://apps.apple.com/kr/app/spark-email-app-by-readdle/id1176895641): email client
 11. Install [Amphetamine](https://apps.apple.com/kr/app/amphetamine/id937984704): keeps awake mac
