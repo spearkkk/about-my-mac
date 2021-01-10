@@ -3,7 +3,7 @@
     "result" : {
       "textSpacing" : 4,
       "subtext" : {
-        "size" : 18,
+        "size" : 12,
         "colorSelected" : "#D79921FF",
         "font" : "Hack Nerd Font Mono",
         "color" : "#D4C4A1FF"
@@ -16,26 +16,29 @@
       },
       "backgroundSelected" : "#7C6F64C4",
       "text" : {
-        "size" : 27,
+        "size" : 15,
         "colorSelected" : "#D79921FF",
         "font" : "Hack Nerd Font Mono",
         "color" : "#D4C4A1FF"
       },
       "iconPaddingHorizontal" : 3,
+      "roundness" : 0,
       "paddingVertical" : 5,
       "iconSize" : 45
     },
     "search" : {
-      "paddingVertical" : 0,
-      "background" : "#27282700",
+      "backgroundSelected" : "#D4C4A1FF",
+      "paddingHorizontal" : 8,
       "spacing" : 7,
       "text" : {
-        "size" : 20,
+        "size" : 15,
         "colorSelected" : "#504944FF",
         "font" : "Hack Nerd Font Mono",
         "color" : "#D4C4A1FF"
       },
-      "backgroundSelected" : "#D4C4A1FF"
+      "background" : "#27282700",
+      "roundness" : 0,
+      "paddingVertical" : 0
     },
     "window" : {
       "color" : "#504944C4",
