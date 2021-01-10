@@ -292,12 +292,12 @@ This is **'Super Awwwwwwwwesome'** package manager, [Homebrew](https://docs.brew
 If you are use this tool, you can save your time.
 
 ## `fish`
-`brew install fish`
-`echo "/usr/local/bin/fish" | sudo tee -a /etc/shells`
-`chsh -s /usr/local/bin/fish`
+`brew install fish`  
+`echo "/usr/local/bin/fish" | sudo tee -a /etc/shells`  
+`chsh -s /usr/local/bin/fish`  
 
 ## `nvm`
-1. Install `nvm`[link](https://github.com/nvm-sh/nvm#installing-and-updating) ->  
+1. Install [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) ->  
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash`
 2. https://github.com/edc/bassnvm version-remote
 3. https://github.com/nvm-sh/nvm/issues/303#issuecomment-210738874
