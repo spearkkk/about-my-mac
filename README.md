@@ -1,12 +1,12 @@
 ### Index
 1. Install [Chrome](#chrome)
-2. Install [Sublime Text](#sumblime-text)🔐
+2. Install [Sublime Text](#sublime-text)🔐
 3. Install [Dropbox](https://www.dropbox.com/)
 4. Install [Alfred](#alfred)🔐,☁️
 5. Install [Better Touch Tool](#better-touch-tool)☁️
 6. Install [Contexts](#contexts)☁️
 7. Install [Iterm](#iterm)
-8. Install [Thing3](#thing3)
+8. Install [Things3](#things)
 9. Install [1Password](#1password)
 10. Install [Spark](https://apps.apple.com/kr/app/spark-email-app-by-readdle/id1176895641): email client
 11. Install [Amphetamine](https://apps.apple.com/kr/app/amphetamine/id937984704): keeps awake mac
@@ -264,7 +264,7 @@ I set color scheme as **gruvbox**. I referred this [contribution](https://github
 
 [Go to the Top](#index)
 
-## Things
+## Things3
 Have you heard *GTD*? 
 > 'Getting Things Done' is a time management method, ...  
 >  from wikipedia
@@ -278,7 +278,7 @@ You do not have to worry about missing that idea anymore.
 
 [Go to the Top](#index)
 
-## 1Paswword
+## 1Password
 If you stil rememeber you **password**, **license**, and **some secret thing**   
 or write them to note app/a piece of papepr,  
 You can write them into [1Password](https://1password.com/) and get them when/what you want.
