@@ -8,8 +8,8 @@
 7. Install [Iterm](#iterm)
 8. Install [Things3](#things3)
 9. Install [1Password](#1password)
-10. Install [Spark](https://apps.apple.com/kr/app/spark-email-app-by-readdle/id1176895641): email client
-11. Install [Amphetamine](https://apps.apple.com/kr/app/amphetamine/id937984704): keeps awake mac
+10. Install [Spark](https://apps.apple.com/app/spark-email-app-by-readdle/id1176895641): Email Client
+11. Install [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704): Keeps Awake MAC
 12. Install [Homebrew](#homebrew)
 13. Install [Hack](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts): Hack Nerd Mono
 14. Install [`fish`](#fish)
@@ -19,13 +19,17 @@
 18. Install [`virtualenv`](https://github.com/pyenv/pyenv-virtualenv) for `pyenv`
 19. Install [`nvm`](#nvm)
 20. Install [IDEA](#idea)
-21. Install [CMDs](#cmds)
+21. Install [CLI](#cli)
 22. Install [Dozer](https://github.com/Mortennn/Dozer)
 23. Install [Imazing](https://imazing.com/)🔐
 24. Install [Boom 3D](https://www.globaldelight.com/boom/)
 25. Install [BeardedSpice](https://beardedspice.github.io/)
 26. Install Spotify
 27. Install [IINA](https://iina.io/)
+28. Install Hazel
+29. Install Friendly Streaming
+30. Install [Transmission](https://transmissionbt.com/)
+31. Install [Bear](https://apps.apple.com/app/bear/id1091189122): Markdown Note
 
 ## System Preferences
 **General**  
@@ -38,10 +42,13 @@ Set `Blooth`: 'Show in Menu Bar'
 Set `Battery`: 'Show in Menu Bar' & 'Show Percentage'  
 
 **Mission Control**   
-All disabled  
+All enabled  
 
 **Spotlight**  
 All disabled  
+
+**Keyboard**
+- https://jojoldu.tistory.com/420
 
 ## Terminal Tweaks
 
@@ -112,7 +119,7 @@ defaults write -g NSWindowResizeTime -float 0.01
 ```
 ```shell
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool FALSE
-```
+s```
 **Reset**
 ```shell
 defaults delete -g NSWindowResizeTime
@@ -134,8 +141,9 @@ defaults write com.apple.screencapture type PDF; killall SystemUIServer
 Default: ~/Desktop
 ```shell
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
-```
+``` 
 </details>
+
 
 ## Chrome
 Change `Sync and Google services`  
@@ -219,6 +227,9 @@ It has more feature than Spotlight.
 * can convert text using snippet.
 * can explore your mac more and more using Workflow.
 
+### Custom Terminal
+[Iterm](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)
+
 ### Theme
 I revised color and font for [appearence](./Gruvbox-Dark.alfredappearance) based on **gruvbox**.  
 !! You must should install **'Hack Nerd Mono'** if you use this appearence.  
@@ -296,6 +307,14 @@ If you are use this tool, you can save your time.
 `echo "/usr/local/bin/fish" | sudo tee -a /etc/shells`  
 `chsh -s /usr/local/bin/fish`  
 
+### Theme
+[spacefish](https://github.com/matchai/spacefish): `fisher install matchai/spacefish`
+
+### Alias
+`alias --save l="ls -atrl"`
+`alias --save subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"`
+
+
 ## `nvm`
 1. Install [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) ->  
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash`
@@ -309,13 +328,15 @@ If you are use this tool, you can save your time.
 - [Gruvbox Theme](https://plugins.jetbrains.com/plugin/12310-gruvbox-theme)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- Python
 
-## CMDs
+## CLI
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl): fish shell using `"[URL]"`
 - [rg](https://github.com/BurntSushi/ripgrep): `brew install ripgrep`
 - [bat](https://github.com/sharkdp/bat): `brew install bat`
 - [fd](https://github.com/sharkdp/fd): `brew install fd`
 - [jvm](https://velog.io/@spearkkk/Usage-jEnv-in-Fish)
 - kotlin: `brew install kotlin`
+- [gradle](https://gradle.org/install/): `brew install gradle`
 
 [Go to the Top](#index)
