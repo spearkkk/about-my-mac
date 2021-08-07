@@ -26,10 +26,13 @@
 25. Install [BeardedSpice](https://beardedspice.github.io/)
 26. Install Spotify
 27. Install [IINA](https://iina.io/)
-28. Install Hazel
+28. ~Install Hazel~
 29. Install Friendly Streaming
 30. Install [Transmission](https://transmissionbt.com/)
 31. Install [Bear](https://apps.apple.com/app/bear/id1091189122): Markdown Note
+32. Install [PDF Expert](https://pdfexpert.com/)
+33. Install [Docker](https://dc7303.github.io/docker/2019/11/24/dockerInstallForMac/): `brew install --cask docker`
+34. Install [`mysql`](#mysql)
 
 ## System Preferences
 **General**  
@@ -338,5 +341,10 @@ If you are use this tool, you can save your time.
 - [jvm](https://velog.io/@spearkkk/Usage-jEnv-in-Fish)
 - kotlin: `brew install kotlin`
 - [gradle](https://gradle.org/install/): `brew install gradle`
+- [imagemagick](https://imagemagick.org/script/convert.php): `brew install imagemagick`
+
+## mysql
+1. https://hub.docker.com/_/mysql
+2. https://poiemaweb.com/docker-mysql
 
 [Go to the Top](#index)
