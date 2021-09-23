@@ -342,7 +342,7 @@ defaults write -g NSWindowResizeTime -float 0.01
 ```
 ```shell
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool FALSE
-s```
+```
 **Reset**
 ```shell
 defaults delete -g NSWindowResizeTime
