@@ -88,6 +88,7 @@ I set color scheme as **gruvbox**. I referred this [contribution](https://github
 ### Alias
 * `alias --save l="exa -1la --icons --no-permissions -s modified"`
 
+### Extra Information
 + [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 
 
