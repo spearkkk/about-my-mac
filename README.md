@@ -236,6 +236,7 @@ I use two editor to write something.
 ## Application
 * Docker
 * IDEA
+* Paw
 * Dozer
 * Amphetamine
 * Bear
@@ -250,6 +251,7 @@ I use two editor to write something.
 * Boom 3D
 * BeardedSpice
 * EzyCal
+* KakaoTalk
 
 
 [Go to the Top](#index)
