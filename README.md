@@ -82,6 +82,7 @@ I set color scheme as **gruvbox**. I referred this [contribution](https://github
 - [bottom](https://github.com/ClementTsang/bottom): `brew install bottom`
 - [gping](https://github.com/orf/gping): `brew install gping`
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
+- [duf](https://github.com/muesli/duf)
 
 - [imagemagick](https://imagemagick.org/script/convert.php): `brew install imagemagick`
 
@@ -233,9 +234,18 @@ I use two editor to write something.
 
 [Go to the Top](#index)
 
+## IDEA
+### Setting
+* Editor Tabs: Tab placements: 'None', Tab limit: '1'
+### Plugins
+* Gruvbox Theme: dark hard
+* Rainbow Brackets
+* String Manipulation
+
+[Go to the Top](#index)
+
 ## Application
 * Docker
-* IDEA
 * Paw
 * Dozer
 * Amphetamine
@@ -252,7 +262,7 @@ I use two editor to write something.
 * BeardedSpice
 * EzyCal
 * KakaoTalk
-
+* AppCleaner
 
 [Go to the Top](#index)
 
