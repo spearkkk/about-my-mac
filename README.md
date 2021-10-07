@@ -1,185 +1,160 @@
-#### Homebrew
+### Homebrew
 This is **'Super Awwwwwwwwesome'** package manager.  
 If you are use this tool, you can save your time.  
   
-*Install: [Official Link](https://docs.brew.sh/Installation)*
-- *Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*
+*Install: [Official Link](https://docs.brew.sh/Installation)*  
+*Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*  
 
 ---
-#### mas
-To download application in Mac Appstore
+### `mas`
+To download application in Mac App Store
   
 ```sh
 brew install mas
 ```
--  
 ```sh
 mas signup [your apple id]
  ```
 
-[Go to the Top](#index)
+---
+### `fish`
+```sh
+brew install fish
+echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+chsh -s /usr/local/bin/fish
+```
 
-## Chrome
-*Install*
+##### Font: Hack
+```sh
+brew tap homebrew/cask-fonts
+brew install --cask font-hack-nerd-font
+```
+
+##### Powerline Font  
+*Install: [Official Link](https://github.com/powerline/fonts): clone -> install -> remove*  
+
+##### `fisher`
+```sh
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+```
+
+##### spacefish
+```sh
+# theme: https://github.com/matchai/spacefish
+# 
+fisher install matchai/spacefish
+```
+
+---
+### Application
 ```sh
 brew install --cask google-chrome
-```
-### Additional Step
-1. `Font size`: 'Large'  
-2. Set `Show warning before quitting with ⌘Q`: disabled  
-3. Check extension
-
-[Go to the Top](#index)
-
-## Iterm
-*Install*
-```sh
 brew install --cask iterm2
+brew install --cask dropbox
+brew install --cask 1password
+brew install --cask alfred
+brew install --cask bettertouchtool
+brew install --cask contexts
+brew install --cask sublime-text
+brew install --cask intellij-idea
+
+# 904280696 - mas search things3
+mas install 904280696
+
+brew install docker
+brew install --cask paw
+brew install --cask dozer
+brew install --cask imazing
+brew install --cask pdf-expert
+brew install --cask transmission
+brew install --cask iina
+brew install --cask spotify
+brew install --cask beardedspice
+brew install --cask appcleaner
+
+# 1091189122 - mas search bear
+mas install 1091189122
+
+# 1176895641 - mas search spark
+mas install 1176895641
+
+# 694633015 - mas search "VPN Unlimited"
+mas install 694633015
+
+# 553245401 - mas search "Friendly Streaming"
+mas install 553245401
+
+# 1190243926 - mas search EzyCal
+mas install 1190243926
+
+# 869223134 - mas search kakaotalk
+mas install 869223134
+
 ```
 
+---
+### CLI
+```sh
+###
+# reference: https://github.com/ibraheemdev/modern-unix
+#
+# ### utility ###
+#
+# https://github.com/muesli/duf
+brew install duf
+# https://github.com/orf/gping
+brew install gping
+# https://github.com/ClementTsang/bottom
+brew install bottom
+# https://github.com/theryangeary/choose
+brew install choose-rust
+# https://github.com/ogham/exa
+brew install exa
+# set alias for exa
+alias --save l="exa -1la --icons --no-permissions -s modified"
+# https://github.com/sharkdp/fd
+brew install fd
+# https://github.com/sharkdp/bat
+brew install bat
+# https://github.com/BurntSushi/ripgrep
+brew install ripgrep
+#
+# ### develop ###
+#
+# https://gradle.org/install/
+brew install gradle
+# https://kotlinlang.org/
+brew install kotlin
+# https://adoptium.net/index.html
+brew tap homebrew/cask-versions
+brew install --cask temurin8
+# 
+# ### tools ###
+#
+# https://github.com/ytdl-org/youtube-dl
+# usage: fish shell using "[URL]"
+brew install youtube-dl
+# https://imagemagick.org/script/convert.php
+brew install imagemagick
+```
+
+- *[zoxide](https://github.com/ajeetdsouza/zoxide)*
+
+---
+### Chrome
+- *`Font size`: 'Large'*
+- *Set `Show warning before quitting with ⌘Q`: disabled*
+- *Check extension*
+
+---
+### Iterm
 This is **Terminal app**, [iTerm2](https://iterm2.com/downloads.html).  
 This is well-known terminal app. You can customize it and set status for mac.  
 
-### Additional Step
-1. Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)
+*Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
 
-[Go to the Top](#index)
-
-
-## fish
-*Install*
-```sh
-brew install fish
-
-```
-```sh
-echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
-
-```
-```sh
-chsh -s /usr/local/bin/fish
-
-```
-
-### Additional Step
-1.
-```sh
-brew tap homebrew/cask-fonts
-```
-
-2.
-```sh
-brew install --cask font-hack-nerd-font
-
-```
-
-3. [Powerline Font](https://github.com/powerline/fonts): clone -> install -> remove
-4. Install `fisher`
-```sh
-curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
-
-```
-5. Add the Theme: [spacefish](https://github.com/matchai/spacefish)
-```sh
-fisher install matchai/spacefish
-
-```
-
-## CLI
-### [youtube-dl](https://github.com/ytdl-org/youtube-dl): fish shell using `"[URL]"`
-```sh
-brew install youtube-dl
-
-```
-### [rg](https://github.com/BurntSushi/ripgrep)
-```sh
-brew install ripgrep
-
-```
-### [bat](https://github.com/sharkdp/bat)
-```sh
-brew install bat
-
-```
-### [fd](https://github.com/sharkdp/fd)
-```sh
-brew install fd
-
-```
-### kotlin
-```sh
-brew install kotlin
-
-```
-### [gradle](https://gradle.org/install/)
-```sh
-brew install gradle
-
-```
-### [jdk](https://adoptium.net/index.html)
-```sh
-brew tap homebrew/cask-versions
-
-```
-```sh
-brew install --cask temurin8
-
-```
-### [exa](https://github.com/ogham/exa)
-```sh
-brew install exa
-
-```
-### [choose](https://github.com/theryangeary/choose)
-```sh
-brew install choose-rust
-
-```
-### [bottom](https://github.com/ClementTsang/bottom)
-```sh
-brew install bottom
-
-```
-### [gping](https://github.com/orf/gping)
-```sh
-brew install gping
-
-```
-### [zoxide](https://github.com/ajeetdsouza/zoxide)
-### [duf](https://github.com/muesli/duf)
-```sh
-brew install duf
-
-```
-### [imagemagick](https://imagemagick.org/script/convert.php)
-```sh
-brew install imagemagick
-
-```
-
-### Additional Step
-1.
-```sh
-alias --save l="exa -1la --icons --no-permissions -s modified"
-
-```
-
-### Extra Information
-+ [Modern Unix](https://github.com/ibraheemdev/modern-unix)
-
-## Dropbox
-*Install*
-```sh
-brew install --cask dropbox
-
-```
-
-## 1Password
-*Install*
-```sh
-brew install --cask 1password
-
-```
+---
+### 1Password
 
 If you stil rememeber you **password**, **license**, and **some secret thing**   
 or write them to note app/a piece of papepr,  
@@ -187,18 +162,8 @@ You can write them into [1Password](https://1password.com/) and get them when/wh
 
 This app also supports IOS, web, and Andorid.
 
-[Go to the Top](#index)
-
-## Alfred
-*Install*
-```sh
-brew install --cask alfred
-
-```
-### Additional Step
-1. Enable License: 🔐
-2. Sync Preferences: ☁️
-
+---
+### Alfred
 [Alfred](https://www.alfredapp.com/) is **awesome launcher app**.  
 It has more feature than Spotlight.  
 * can search anything in my mac.
@@ -206,16 +171,18 @@ It has more feature than Spotlight.
 * can store/get in clipboard, text, image, and file.
 * can convert text using snippet.
 * can explore your mac more and more using Workflow.
+<details>
+  <summary>Additional Infomation</summary>
 
-### Custom Terminal
-[Iterm](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)
+##### Custom Terminal
+- [Iterm](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)
 
-### Theme
+##### Theme
 I revised color and font for [appearence](./Gruvbox-Dark.alfredappearance) based on **gruvbox**.  
 !! You must should install **'Hack Nerd Mono'** if you use this appearence.  
 ![appearence](./alfred_appearence.gif)
 
-### Workflows
+##### Workflows
 Alfred say ...
 > With Alfred's Powerpack and workflows, ... and boost your productivity.
 
@@ -225,29 +192,21 @@ Workflows is good to me but sometimes it is hard to find nice workflows.
 I searched in goolge and github, and I make a note to keep workflows.  
 If you want to see [more](https://github.com/spearkkk/alfred-workflow)...
 
-[Go to the Top](#index)
+</details>
 
-## Better Touch Tool
-*Install*
-```sh
-brew install --cask bettertouchtool
+- *Enable License: 🔐* 
+- *Sync Preferences: ☁️*
 
-```
+---
+### Better Touch Tool
 All inputs through mac can customized as you want if you have **Better Touch Tool**.  
 
 I have a another keyboard, but sometimes I have to use keyboard of this mac.  
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
 So I just mapped number key to function using [Better Touch Tool](https://folivora.ai/).
 
-[Go to the Top](#index)
-
-## Contexts
-*Install*
-```sh
-brew install --cask contexts
-
-```
-
+---
+### Contexts
 Contexts manages all windows and application in my mac.  
 When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
 Or when you want to switch windows between in a application, you press <kbd>command</kbd> + <kbd>\`</kbd>.  
@@ -256,18 +215,12 @@ But if you have more windows as a full screen, the switching is not working as y
 [Contexts](https://contexts.co/) enable to **switch windows as I want**.  
 Just try to use this app.
 
-[Go to the Top](#index)
+- *Set Preference: [Link](./preference/context)*
 
-## Things3
-*Install*
-```sh
+---
+### Things3
 mas search things3
-
-```
-```sh
 mas install [id]
-
-```
 
 Have you heard *GTD*? 
 > 'Getting Things Done' is a time management method, ...  
@@ -280,19 +233,19 @@ You do not have to worry about missing that idea anymore.
 2. Get it from Things when you want.
 3. Do it.
 
-
-## Sublime Text
-*Install*
-```sh
-brew install --cask sublime-text
-
-```
-### Additional Step
-1. Install 'Package Controll'
-2. Install Package 'A File Icon'
-3. Install Package 'gruvbox'
-4. <details><summary>Default Setting...</summary>
-
+---
+### Sublime Text
+[Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
+I use two editor to write something.  
+  
+- *Install 'Package Controll'*
+- *Install Package 'A File Icon'*
+- *Install Package 'gruvbox'*
+- *Install Packge 'MarkdownPreview'*
+- *Set Preference*  
+<details>
+  <summary>Default Setting...</summary>
+  
 ```json
 {
     /// default setting
@@ -306,7 +259,8 @@ brew install --cask sublime-text
 ```
 </details>
 
-5. <details><summary>Gruvbox Setting...</summary> 
+<details>
+  <summary>Gruvbox Setting...</summary> 
 
 ```json
 {
@@ -344,44 +298,17 @@ brew install --cask sublime-text
 ```
 </details>
 
-[Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
-I use two editor to write something.  
-
-
-
-## IDEA
-### Setting
+---
+### IDEA
+##### Setting
 * Editor Tabs: Tab placements: 'None', Tab limit: '1'
-### Plugins
+##### Plugins
 * Gruvbox Theme: dark hard
 * Rainbow Brackets
 * String Manipulation
 
-[Go to the Top](#index)
-
-## Application
-* Docker
-* Paw
-* Dozer
-* Amphetamine
-* Bear
-* Spark
-* Imazing
-* PDF Expert
-* VPN Unlimited
-* Transmission
-* Friendly Streaming
-* IINA
-* Spotify
-* Boom 3D
-* BeardedSpice
-* EzyCal
-* KakaoTalk
-* AppCleaner
-
-[Go to the Top](#index)
-
-## System Preferences
+---
+### System Preferences
 **General**  
 Set `Recent Items`: 'None'  
 
@@ -400,17 +327,17 @@ All disabled
 **Keyboard**
 - https://jojoldu.tistory.com/420
 
-## Terminal Tweaks
+#### Terminal Tweaks
 
 <details>
   <summary>Quick Look: Animation</summary>
 
 **Apply**  
-```shell
+```sh
 defaults write -g QLPanelAnimationDuration -float 0; killall Finder
 ```
 **Reset**
-```shell
+```sh
 defaults delete -g QLPanelAnimationDuration; killall Finder
 ```
 </details>
@@ -419,11 +346,11 @@ defaults delete -g QLPanelAnimationDuration; killall Finder
   <summary>Dock: Delay</summary>
 
 **Apply**
-```shell
+```sh
 defaults write com.apple.Dock autohide-delay -float 0; killall Dock
 ```
 **Reset**
-```shell
+```sh
 defaults delete com.apple.dock autohide-delay; killall Dock
 ```
 </details>
@@ -432,11 +359,11 @@ defaults delete com.apple.dock autohide-delay; killall Dock
   <summary>Dock: Animation</summary>
 
 **Apply**
-```shell
+```sh
 defaults write com.apple.dock autohide-time-modifier -float 0; killall Dock
 ```
 **Reset**
-```shell
+```sh
 defaults delete com.apple.dock autohide-time-modifier; killall Dock
 ```
 </details>
@@ -445,17 +372,17 @@ defaults delete com.apple.dock autohide-time-modifier; killall Dock
   <summary>Launch Pad: Animation</summary>
 
 **Apply**
-```shell
+```sh
 defaults write com.apple.dock springboard-show-duration -int 0; killall Dock
 ```
-```shell
+```sh
 defaults write com.apple.dock springboard-hide-duration -int 0; killall Dock
 ```
 **Reset**
-```shell
+```sh
 defaults delete com.apple.dock springboard-show-duration; killall Dock
 ```
-```shell
+```sh
 defaults delete com.apple.dock springboard-hide-duration; killall Dock
 ```
 </details>
@@ -464,17 +391,17 @@ defaults delete com.apple.dock springboard-hide-duration; killall Dock
   <summary>Pop-up&Dialog: Animation</summary>
 
 **Apply**
-```shell
+```sh
 defaults write -g NSWindowResizeTime -float 0.01
 ```
-```shell
+```sh
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool FALSE
 ```
 **Reset**
-```shell
+```sh
 defaults delete -g NSWindowResizeTime
 ```
-```shell
+```sh
 defaults delete -g NSAutomaticWindowAnimationsEnabled
 ```
 </details>
@@ -484,19 +411,18 @@ defaults delete -g NSAutomaticWindowAnimationsEnabled
 
 **File Format**  
 Default: .png
-```shell
+```sh
 defaults write com.apple.screencapture type PDF; killall SystemUIServer
 ```
 **File Path**  
 Default: ~/Desktop
-```shell
+```sh
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
 ``` 
+
 </details>
 
-[Go to the Top](#index)
-
-## mysql
+#### mysql
 1. https://hub.docker.com/_/mysql
 2. https://poiemaweb.com/docker-mysql
 
