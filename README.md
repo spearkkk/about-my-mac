@@ -1,29 +1,18 @@
-### Index
-🔐: 1password
-☁️: dropbox
-
-## Homebrew
-*Install*
-[Official Link](https://docs.brew.sh/Installation)
-
+#### Homebrew
 This is **'Super Awwwwwwwwesome'** package manager.  
-If you are use this tool, you can save your time. 
+If you are use this tool, you can save your time.  
+  
+*Install: [Official Link](https://docs.brew.sh/Installation)*
+- *Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*
 
-### Additional Step
-1. Open [formulae search](https://formulae.brew.sh/): To search application or cli
-
-[Go to the Top](#index)
-
-## mas
-*Install*
+---
+#### mas
+To download application in Mac Appstore
+  
 ```sh
 brew install mas
 ```
-
-To download application in Mac Appstore
-
-### Additional Step
-1. 
+-  
 ```sh
 mas signup [your apple id]
  ```
