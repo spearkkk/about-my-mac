@@ -139,6 +139,9 @@ brew install imagemagick
 ```
 
 - *[zoxide](https://github.com/ajeetdsouza/zoxide)*
+- *mysql*
+  1. https://hub.docker.com/_/mysql
+  2. https://poiemaweb.com/docker-mysql
 
 ---
 ### Chrome
@@ -308,35 +311,17 @@ I use two editor to write something.
 * String Manipulation
 
 ---
-### System Preferences
-**General**  
-Set `Recent Items`: 'None'  
 
-**Dock & Menu Bar**  
-Set `Size`: small  
-Set `Automactically hide and show the Dock`: enabled  
-Set `Blooth`: 'Show in Menu Bar'  
-Set `Battery`: 'Show in Menu Bar' & 'Show Percentage'  
-
-**Mission Control**   
-All enabled  
-
-**Spotlight**  
-All disabled  
-
-**Keyboard**
-- https://jojoldu.tistory.com/420
-
-#### Terminal Tweaks
+### Terminal Tweaks
 
 <details>
   <summary>Quick Look: Animation</summary>
 
-**Apply**  
+*Apply*  
 ```sh
 defaults write -g QLPanelAnimationDuration -float 0; killall Finder
 ```
-**Reset**
+*Reset*  
 ```sh
 defaults delete -g QLPanelAnimationDuration; killall Finder
 ```
@@ -345,11 +330,11 @@ defaults delete -g QLPanelAnimationDuration; killall Finder
 <details>
   <summary>Dock: Delay</summary>
 
-**Apply**
+*Apply*  
 ```sh
 defaults write com.apple.Dock autohide-delay -float 0; killall Dock
 ```
-**Reset**
+*Reset*  
 ```sh
 defaults delete com.apple.dock autohide-delay; killall Dock
 ```
@@ -358,11 +343,11 @@ defaults delete com.apple.dock autohide-delay; killall Dock
 <details>
   <summary>Dock: Animation</summary>
 
-**Apply**
+*Apply*  
 ```sh
 defaults write com.apple.dock autohide-time-modifier -float 0; killall Dock
 ```
-**Reset**
+*Reset*  
 ```sh
 defaults delete com.apple.dock autohide-time-modifier; killall Dock
 ```
@@ -371,14 +356,14 @@ defaults delete com.apple.dock autohide-time-modifier; killall Dock
 <details>
   <summary>Launch Pad: Animation</summary>
 
-**Apply**
+*Apply*  
 ```sh
 defaults write com.apple.dock springboard-show-duration -int 0; killall Dock
 ```
 ```sh
 defaults write com.apple.dock springboard-hide-duration -int 0; killall Dock
 ```
-**Reset**
+*Reset*  
 ```sh
 defaults delete com.apple.dock springboard-show-duration; killall Dock
 ```
@@ -390,14 +375,14 @@ defaults delete com.apple.dock springboard-hide-duration; killall Dock
 <details>
   <summary>Pop-up&Dialog: Animation</summary>
 
-**Apply**
+*Apply*  
 ```sh
 defaults write -g NSWindowResizeTime -float 0.01
 ```
 ```sh
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool FALSE
 ```
-**Reset**
+*Reset*  
 ```sh
 defaults delete -g NSWindowResizeTime
 ```
@@ -409,21 +394,18 @@ defaults delete -g NSAutomaticWindowAnimationsEnabled
 <details>
   <summary>Screenshot</summary>
 
-**File Format**  
+*File Format*  
 Default: .png
+
 ```sh
 defaults write com.apple.screencapture type PDF; killall SystemUIServer
 ```
-**File Path**  
-Default: ~/Desktop
+
+*File Path*  
+Default: \~/Desktop
+
 ```sh
 defaults write com.apple.screencapture location /drag/location/here; killall SystemUIServer
 ``` 
 
 </details>
-
-#### mysql
-1. https://hub.docker.com/_/mysql
-2. https://poiemaweb.com/docker-mysql
-
-[Go to the Top](#index)
