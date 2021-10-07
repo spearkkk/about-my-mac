@@ -38,11 +38,14 @@ brew install --cask font-hack-nerd-font
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 ```
 
-##### spacefish
+##### Theme: [starship](https://starship.rs/)
 ```sh
-# theme: https://github.com/matchai/spacefish
-# 
-fisher install matchai/spacefish
+brew install starship
+```
+```sh
+# ~/.config/fish/config.fish
+
+starship init fish | source
 ```
 
 ---
