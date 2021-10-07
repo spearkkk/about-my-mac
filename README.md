@@ -2,100 +2,196 @@
 🔐: 1password
 ☁️: dropbox
 
-1. Install [Chrome](#chrome)
-2. Install [Homebrew](#homebrew) in Terminal
-3. Install [Iterm](#iterm) in Terminal
-4. Install [`fish` and `fisher`](#fish) in Iterm2
-5. Install [`pyenv`](https://github.com/pyenv/pyenv)
-6. Install [`virtualenv`](https://github.com/pyenv/pyenv-virtualenv) for `pyenv`
-7. Install [`nvm`](https://github.com/jorgebucaran/nvm.fish)
-8. Install [CLI](#cli)
-9. Install [Dropbox](https://www.dropbox.com/)
-10. Install [1Password](#1password)
-11. Install [Alfred](#alfred): 🔐,☁️
-12. Install [Better Touch Tool](#better-touch-tool): ☁️
-13. Install [Contexts](#contexts): ☁️
-14. Install [Things3](#things3)
-15. Install [Sublime Text](#sublime-text): 🔐
-16. Insatll [Application](#application)
-17. Install [`mysql`](#mysql)
+## Homebrew
+*Install*
+[Official Link](https://docs.brew.sh/Installation)
 
-## Chrome
-* Change `Sync and Google services`  
-* Set `Font size`: 'Large'  
-* Set `Show warning before quitting with ⌘Q`: disabled  
-* Check extension
+This is **'Super Awwwwwwwwesome'** package manager.  
+If you are use this tool, you can save your time. 
+
+### Additional Step
+1. Open [formulae search](https://formulae.brew.sh/): To search application or cli
 
 [Go to the Top](#index)
 
-## Homebrew
-This is **'Super Awwwwwwwwesome'** package manager, [Homebrew](https://docs.brew.sh/Installation).  
-If you are use this tool, you can save your time.  
+## mas
+*Install*
+```sh
+brew install mas
+```
 
-* Install ['mas'](https://github.com/mas-cli/mas): `brew install mas` - To download application in Mac Appstore
-* Open [formulae search](https://formulae.brew.sh/): To search application or cli
+To download application in Mac Appstore
+
+### Additional Step
+1. 
+```sh
+mas signup [your apple id]
+ ```
+
+[Go to the Top](#index)
+
+## Chrome
+*Install*
+```sh
+brew install --cask google-chrome
+```
+### Additional Step
+1. `Font size`: 'Large'  
+2. Set `Show warning before quitting with ⌘Q`: disabled  
+3. Check extension
 
 [Go to the Top](#index)
 
 ## Iterm
+*Install*
+```sh
+brew install --cask iterm2
+```
+
 This is **Terminal app**, [iTerm2](https://iterm2.com/downloads.html).  
 This is well-known terminal app. You can customize it and set status for mac.  
-And the **Theme**, 
-I set color scheme as **gruvbox**. I referred this [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors).  
 
-* `brew install iterm2`
-* Set theme - gruvbox dark hard
-
+### Additional Step
+1. Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)
 
 [Go to the Top](#index)
 
 
-## `fish`
-* `brew install fish`  
-* `echo "/usr/local/bin/fish" | sudo tee -a /etc/shells`  
-* `chsh -s /usr/local/bin/fish`  
+## fish
+*Install*
+```sh
+brew install fish
 
-### `fisher`
-* `brew install fisher`
+```
+```sh
+echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 
-### Font
-* [Hack](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts): Hack Nerd Mono
-* [Powerline Font](https://github.com/powerline/fonts): clone -> install -> remove
-* Set font for Iterm2
+```
+```sh
+chsh -s /usr/local/bin/fish
 
-### Theme
-[spacefish](https://github.com/matchai/spacefish): `fisher install matchai/spacefish`
+```
 
+### Additional Step
+1.
+```sh
+brew tap homebrew/cask-fonts
+```
 
-[Go to the Top](#index)
+2.
+```sh
+brew install --cask font-hack-nerd-font
+
+```
+
+3. [Powerline Font](https://github.com/powerline/fonts): clone -> install -> remove
+4. Install `fisher`
+```sh
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+
+```
+5. Add the Theme: [spacefish](https://github.com/matchai/spacefish)
+```sh
+fisher install matchai/spacefish
+
+```
 
 ## CLI
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl): fish shell using `"[URL]"`
-- [rg](https://github.com/BurntSushi/ripgrep): `brew install ripgrep`
-- [bat](https://github.com/sharkdp/bat): `brew install bat`
-- [fd](https://github.com/sharkdp/fd): `brew install fd`
-- kotlin: `brew install kotlin`
-- [gradle](https://gradle.org/install/): `brew install gradle`
-- [jdk](https://adoptium.net/index.html): `brew tap homebrew/cask-versions; brew install --cask temurin8`
-- [exa](https://github.com/ogham/exa): `brew install exa`
-- [choose](https://github.com/theryangeary/choose): `brew install choose-rust`
-- [bottom](https://github.com/ClementTsang/bottom): `brew install bottom`
-- [gping](https://github.com/orf/gping): `brew install gping`
-- [zoxide](https://github.com/ajeetdsouza/zoxide)
-- [duf](https://github.com/muesli/duf)
+### [youtube-dl](https://github.com/ytdl-org/youtube-dl): fish shell using `"[URL]"`
+```sh
+brew install youtube-dl
 
-- [imagemagick](https://imagemagick.org/script/convert.php): `brew install imagemagick`
+```
+### [rg](https://github.com/BurntSushi/ripgrep)
+```sh
+brew install ripgrep
 
-### Alias
-* `alias --save l="exa -1la --icons --no-permissions -s modified"`
+```
+### [bat](https://github.com/sharkdp/bat)
+```sh
+brew install bat
+
+```
+### [fd](https://github.com/sharkdp/fd)
+```sh
+brew install fd
+
+```
+### kotlin
+```sh
+brew install kotlin
+
+```
+### [gradle](https://gradle.org/install/)
+```sh
+brew install gradle
+
+```
+### [jdk](https://adoptium.net/index.html)
+```sh
+brew tap homebrew/cask-versions
+
+```
+```sh
+brew install --cask temurin8
+
+```
+### [exa](https://github.com/ogham/exa)
+```sh
+brew install exa
+
+```
+### [choose](https://github.com/theryangeary/choose)
+```sh
+brew install choose-rust
+
+```
+### [bottom](https://github.com/ClementTsang/bottom)
+```sh
+brew install bottom
+
+```
+### [gping](https://github.com/orf/gping)
+```sh
+brew install gping
+
+```
+### [zoxide](https://github.com/ajeetdsouza/zoxide)
+### [duf](https://github.com/muesli/duf)
+```sh
+brew install duf
+
+```
+### [imagemagick](https://imagemagick.org/script/convert.php)
+```sh
+brew install imagemagick
+
+```
+
+### Additional Step
+1.
+```sh
+alias --save l="exa -1la --icons --no-permissions -s modified"
+
+```
 
 ### Extra Information
 + [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 
+## Dropbox
+*Install*
+```sh
+brew install --cask dropbox
 
-[Go to the Top](#index)
+```
 
 ## 1Password
+*Install*
+```sh
+brew install --cask 1password
+
+```
+
 If you stil rememeber you **password**, **license**, and **some secret thing**   
 or write them to note app/a piece of papepr,  
 You can write them into [1Password](https://1password.com/) and get them when/what you want.
@@ -105,6 +201,15 @@ This app also supports IOS, web, and Andorid.
 [Go to the Top](#index)
 
 ## Alfred
+*Install*
+```sh
+brew install --cask alfred
+
+```
+### Additional Step
+1. Enable License: 🔐
+2. Sync Preferences: ☁️
+
 [Alfred](https://www.alfredapp.com/) is **awesome launcher app**.  
 It has more feature than Spotlight.  
 * can search anything in my mac.
@@ -134,6 +239,11 @@ If you want to see [more](https://github.com/spearkkk/alfred-workflow)...
 [Go to the Top](#index)
 
 ## Better Touch Tool
+*Install*
+```sh
+brew install --cask bettertouchtool
+
+```
 All inputs through mac can customized as you want if you have **Better Touch Tool**.  
 
 I have a another keyboard, but sometimes I have to use keyboard of this mac.  
@@ -143,6 +253,12 @@ So I just mapped number key to function using [Better Touch Tool](https://folivo
 [Go to the Top](#index)
 
 ## Contexts
+*Install*
+```sh
+brew install --cask contexts
+
+```
+
 Contexts manages all windows and application in my mac.  
 When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
 Or when you want to switch windows between in a application, you press <kbd>command</kbd> + <kbd>\`</kbd>.  
@@ -153,8 +269,17 @@ Just try to use this app.
 
 [Go to the Top](#index)
 
-
 ## Things3
+*Install*
+```sh
+mas search things3
+
+```
+```sh
+mas install [id]
+
+```
+
 Have you heard *GTD*? 
 > 'Getting Things Done' is a time management method, ...  
 >  from wikipedia
@@ -166,19 +291,18 @@ You do not have to worry about missing that idea anymore.
 2. Get it from Things when you want.
 3. Do it.
 
-[Go to the Top](#index)
 
 ## Sublime Text
-[Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
-I use two editor to write something.  
+*Install*
+```sh
+brew install --cask sublime-text
 
+```
+### Additional Step
 1. Install 'Package Controll'
 2. Install Package 'A File Icon'
 3. Install Package 'gruvbox'
-
-### Setting
-<details>
-  <summary>Default Setting...</summary>
+4. <details><summary>Default Setting...</summary>
 
 ```json
 {
@@ -193,8 +317,7 @@ I use two editor to write something.
 ```
 </details>
 
-<details>
-  <summary>Gruvbox Setting...</summary> 
+5. <details><summary>Gruvbox Setting...</summary> 
 
 ```json
 {
@@ -232,7 +355,10 @@ I use two editor to write something.
 ```
 </details>
 
-[Go to the Top](#index)
+[Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
+I use two editor to write something.  
+
+
 
 ## IDEA
 ### Setting
