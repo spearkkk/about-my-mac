@@ -1,59 +1,23 @@
-### Index
-  * [General](#general)
-  * [Dock](#dock)
-  * [Mission Control](#mission-control)
-  * [Language&Region](#language-region)
-  * [Spotlight](#spotlight)
-  * [Energy Saver](#energy-saver)
-  * [Keyboard](#keyboard)
-  * [Trackpad](#trackpad)
-
-# System Preferences
-## General
-![screentshot_general](general/01.png)
-[Go to Top](#index)
-
----
-## Dock
-![screentshot_dock](dock/01.png)
-[Go to Top](#index)
-
----
-## Mission Control
-![screentshot_mission_control](mission_control/01.png)
-![screentshot_mission_control](mission_control/02.png)
-[Go to Top](#index)
-
----
-## Language&Region 
-![screentshot_language__region](language__region/01.png)
-![screentshot_language__region](language__region/02.png)
-![screentshot_language__region](language__region/03.png)
-[Go to Top](#index)
-
----
-## Spotlight 
-![screentshot_spotlight](spotlight/01.png)
-[Go to Top](#index)
-
----
-## Energy Saver 
-![screentshot_energy_saver](energy_saver/01.png)
-![screentshot_energy_saver](energy_saver/02.png)
-[Go to Top](#index)
-
----
-## Keyboard 
-![screentshot_keyboard](keyboard/01.png)
-![screentshot_keyboard](keyboard/02.png)
-![screentshot_keyboard](keyboard/03.png)
-![screentshot_keyboard](keyboard/04.png)
-![screentshot_keyboard](keyboard/05.png)
-[Go to Top](#index)
-
----
-## Trackpad 
-![screentshot_trackpad](trackpad/01.png)
-![screentshot_trackpad](trackpad/02.png)
-![screentshot_trackpad](trackpad/03.png)
-[Go to Top](#index)
+![01.png](01.png)
+![02.png](02.png)
+![03.png](03.png)
+![04.png](04.png)
+![05.png](05.png)
+![06.png](06.png)
+![07.png](07.png)
+![08.png](08.png)
+![09.png](09.png)
+![00.png](10.png)
+![11.png](11.png)
+![12.png](12.png)
+![13.png](13.png)
+![14.png](14.png)
+![15.png](15.png)
+![16.png](16.png)
+![17.png](17.png)
+![18.png](18.png)
+![19.png](19.png)
+![20.png](20.png)
+![21.png](21.png)
+![22.png](22.png)
+![23.png](23.png)
