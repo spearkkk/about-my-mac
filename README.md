@@ -158,6 +158,7 @@ This is **Terminal app**, [iTerm2](https://iterm2.com/downloads.html).
 This is well-known terminal app. You can customize it and set status for mac.  
 
 *Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
+*Sync Preferences: ☁️, `~/Dropbox/application/Iterm2`* 
 
 ---
 ### 1Password
@@ -201,7 +202,7 @@ If you want to see [more](https://github.com/spearkkk/alfred-workflow)...
 </details>
 
 - *Enable License: 🔐* 
-- *Sync Preferences: ☁️*
+- *Sync Preferences: ☁️, `~/Dropbox/application/Alfred4`*
 
 ---
 ### Better Touch Tool
