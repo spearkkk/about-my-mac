@@ -1,3 +1,6 @@
+### System Prefernces
+*Set Preference: [Link](./sysmte_preferences/READMD.md)*
+
 ### Homebrew
 This is **'Super Awwwwwwwwesome'** package manager.  
 If you are use this tool, you can save your time.  
@@ -30,9 +33,6 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-##### Powerline Font  
-*Install: [Official Link](https://github.com/powerline/fonts): clone -> install -> remove*  
-
 ##### `fisher`
 ```sh
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
@@ -63,6 +63,7 @@ brew install --cask intellij-idea
 
 # 904280696 - mas search things3
 mas install 904280696
+brew install —cask thingsmacsandboxhelper
 
 brew install docker
 brew install --cask paw
@@ -141,10 +142,18 @@ brew install youtube-dl
 brew install imagemagick
 ```
 
-- *[zoxide](https://github.com/ajeetdsouza/zoxide)*
-- *mysql*
-  1. https://hub.docker.com/_/mysql
-  2. https://poiemaweb.com/docker-mysql
+##### *[zoxide](https://github.com/ajeetdsouza/zoxide)*
+```sh
+brew install zoxide
+```
+```sh
+# ~/.config/fish/config.fish
+zoxide init fish | source
+```
+
+##### *mysql*
+1. https://hub.docker.com/_/mysql
+2. https://poiemaweb.com/docker-mysql
 
 ---
 ### Chrome
@@ -222,23 +231,7 @@ But if you have more windows as a full screen, the switching is not working as y
 [Contexts](https://contexts.co/) enable to **switch windows as I want**.  
 Just try to use this app.
 
-- *Set Preference: [Link](./preference/context)*
-
----
-### Things3
-mas search things3
-mas install [id]
-
-Have you heard *GTD*? 
-> 'Getting Things Done' is a time management method, ...  
->  from wikipedia
-
-When you are focusing on something, there are times when an idea suddenly comes to mind.  
-You do not have to worry about missing that idea anymore.
-
-1. Just put in idea, [Things](https://culturedcode.com/things/).
-2. Get it from Things when you want.
-3. Do it.
+- *Set Preference: [Link](./preference/context/READMD.md)*
 
 ---
 ### Sublime Text
@@ -315,7 +308,22 @@ I use two editor to write something.
 * String Manipulation
 
 ---
+### Things3
+mas search things3
+mas install [id]
 
+Have you heard *GTD*? 
+> 'Getting Things Done' is a time management method, ...  
+>  from wikipedia
+
+When you are focusing on something, there are times when an idea suddenly comes to mind.  
+You do not have to worry about missing that idea anymore.
+
+1. Just put in idea, [Things](https://culturedcode.com/things/).
+2. Get it from Things when you want.
+3. Do it.
+
+---
 ### Terminal Tweaks
 
 <details>
