@@ -94,6 +94,9 @@ mas install 1190243926
 # 869223134 - mas search kakaotalk
 mas install 869223134
 
+# 937984704 - mas search "amphetamine"
+mas install 937984704
+
 ```
 
 ---
@@ -220,6 +223,9 @@ All inputs through mac can customized as you want if you have **Better Touch Too
 I have a another keyboard, but sometimes I have to use keyboard of this mac.  
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
 So I just mapped number key to function using [Better Touch Tool](https://folivora.ai/).
+
+- *Sync Preferences: ☁️, Dropbox*
+- *Install Preset: [Link](https://goldenchaos.net/goldenchaos-btt.html)*
 
 ---
 ### Contexts
