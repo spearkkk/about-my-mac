@@ -29,6 +29,7 @@ This is well-known terminal app. You can customize it and set status for mac.
 
 <details>
   <summary>Additional Infomation</summary>
+  
   ![appearence](./iterm.gif)
   
 </details>
