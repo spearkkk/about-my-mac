@@ -1,5 +1,5 @@
 ### System Prefernces
-*Set Preference: [Link](../sysmte_preferences/READMD.md)*
+*Set Preference: [Link](../system_preferences/README.md)*
 
 ### Homebrew
 This is **'Super Awwwwwwwwesome'** package manager.  

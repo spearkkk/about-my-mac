@@ -4,28 +4,36 @@
 
 ---
 ### Chrome
+Default web browser, but sometimes I use Safari.
+
+*preference*
 - *`Font size`: 'Large'*
 - *Set `Show warning before quitting with ⌘Q`: disabled*
 - *Check extension*
-
+  
+[Go to Top](#index)
 ---
+
 ### Iterm
-This is **Terminal app**, [iTerm2](https://iterm2.com/downloads.html).  
+Default **terminal app**, [iTerm2](https://iterm2.com/downloads.html).
 This is well-known terminal app. You can customize it and set status for mac.  
 
+*preference*
 *Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
 *Sync Preferences: ☁️, `~/Dropbox/application/Iterm2`* 
-
+  
+[Go to Top](#index)
 ---
+
 ### 1Password
-
-If you stil rememeber you **password**, **license**, and **some secret thing**   
-or write them to note app/a piece of papepr,  
-You can write them into [1Password](https://1password.com/) and get them when/what you want.
-
-This app also supports IOS, web, and Andorid.
-
+Password manager  
+If you stil rememeber you **password**, **license**, and **some secret thing** or write them to paper,  
+You can write them into [1Password](https://1password.com/) and get them when/what you want.  
+This app also supports IOS, web, and more.
+  
+[Go to Top](#index)
 ---
+
 ### Alfred
 [Alfred](https://www.alfredapp.com/) is **awesome launcher app**.  
 It has more feature than Spotlight.  
@@ -34,6 +42,7 @@ It has more feature than Spotlight.
 * can store/get in clipboard, text, image, and file.
 * can convert text using snippet.
 * can explore your mac more and more using Workflow.
+
 <details>
   <summary>Additional Infomation</summary>
 
@@ -57,10 +66,13 @@ If you want to see [more](https://github.com/spearkkk/alfred-workflow)...
 
 </details>
 
+*preference*
 - *Enable License: 🔐* 
 - *Sync Preferences: ☁️, `~/Dropbox/application/Alfred4`*
-
+  
+[Go to Top](#index)
 ---
+
 ### Better Touch Tool
 All inputs through mac can customized as you want if you have **Better Touch Tool**.  
 
@@ -68,10 +80,13 @@ I have a another keyboard, but sometimes I have to use keyboard of this mac.
 When I push <kbd>fn</kbd>, I can press function key. But it is awkward to press function key in IDEA.  
 So I just mapped number key to function using [Better Touch Tool](https://folivora.ai/).
 
+*preference*
 - *Sync Preferences: ☁️, Dropbox*
 - *Install Preset: [Link](https://goldenchaos.net/goldenchaos-btt.html)*
-
+  
+[Go to Top](#index)
 ---
+
 ### Contexts
 Contexts manages all windows and application in my mac.  
 When you want to switch between application, you press <kbd>command</kbd> + <kbd>tab</kbd>.  
@@ -81,13 +96,16 @@ But if you have more windows as a full screen, the switching is not working as y
 [Contexts](https://contexts.co/) enable to **switch windows as I want**.  
 Just try to use this app.
 
+*preference*
 - *Set Preference: [Link](./preference/context/READMD.md)*
-
+  
+[Go to Top](#index)
 ---
+
 ### Sublime Text
 [Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
-I use two editor to write something.  
-  
+
+*preference*  
 - *Install 'Package Controll'*
 - *Install Package 'A File Icon'*
 - *Install Package 'gruvbox'*
@@ -149,19 +167,19 @@ I use two editor to write something.
 </details>
 
 ---
+
 ### IDEA
-##### Setting
-* Editor Tabs: Tab placements: 'None', Tab limit: '1'
-##### Plugins
-* Gruvbox Theme: dark hard
-* Rainbow Brackets
-* String Manipulation
 
+*preference*
+- *Editor Tabs: Tab placements: 'None', Tab limit: '1'*
+- *Plugins: Gruvbox Theme: dark hard*
+- *Plugins: Rainbow Brackets*
+- *Plugins: String Manipulation*
+  
+[Go to Top](#index)
 ---
-### Things3
-mas search things3
-mas install [id]
 
+### Things3
 Have you heard *GTD*? 
 > 'Getting Things Done' is a time management method, ...  
 >  from wikipedia
@@ -271,3 +289,5 @@ defaults write com.apple.screencapture location /drag/location/here; killall Sys
 ``` 
 
 </details>
+  
+[Go to Top](#index)
