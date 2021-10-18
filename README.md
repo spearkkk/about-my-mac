@@ -180,6 +180,8 @@ Just try to use this app.
 ```
 </details>
 
+[Go to Top](#index)  
+
 ---
 
 ### IDEA
@@ -206,7 +208,10 @@ You do not have to worry about missing that idea anymore.
 2. Get it from Things when you want.
 3. Do it.
 
+[Go to Top](#index)  
+
 ---
+
 ### Terminal Tweaks
 
 <details>
