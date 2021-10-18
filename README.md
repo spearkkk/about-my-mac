@@ -1,6 +1,14 @@
 # Index
 [tl;dr](./tl-dr/README.md)
 - [Chrome](#chrome)
+- [Iterm](#iterm)
+- [1password](#1password)
+- [Alfred](#alfred)
+- [Better Touch Tool](#better-touch-tool)
+- [Contexts](#contexts)
+- [Sublime Text](#sublime-text)
+- [IDEA](#idea)
+- [Things3](#things3)
 
 ---
 ### Chrome
@@ -11,7 +19,8 @@ Default web browser, but sometimes I use Safari.
 - *Set `Show warning before quitting with ⌘Q`: disabled*
 - *Check extension*
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Iterm
@@ -22,7 +31,8 @@ This is well-known terminal app. You can customize it and set status for mac.
 *Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
 *Sync Preferences: ☁️, `~/Dropbox/application/Iterm2`* 
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### 1Password
@@ -31,7 +41,8 @@ If you stil rememeber you **password**, **license**, and **some secret thing** o
 You can write them into [1Password](https://1password.com/) and get them when/what you want.  
 This app also supports IOS, web, and more.
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Alfred
@@ -70,7 +81,8 @@ If you want to see [more](https://github.com/spearkkk/alfred-workflow)...
 - *Enable License: 🔐* 
 - *Sync Preferences: ☁️, `~/Dropbox/application/Alfred4`*
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Better Touch Tool
@@ -84,7 +96,8 @@ So I just mapped number key to function using [Better Touch Tool](https://folivo
 - *Sync Preferences: ☁️, Dropbox*
 - *Install Preset: [Link](https://goldenchaos.net/goldenchaos-btt.html)*
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Contexts
@@ -99,7 +112,8 @@ Just try to use this app.
 *preference*
 - *Set Preference: [Link](./preference/context/READMD.md)*
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Sublime Text
@@ -176,7 +190,8 @@ Just try to use this app.
 - *Plugins: Rainbow Brackets*
 - *Plugins: String Manipulation*
   
-[Go to Top](#index)
+[Go to Top](#index)  
+
 ---
 
 ### Things3
@@ -290,4 +305,4 @@ defaults write com.apple.screencapture location /drag/location/here; killall Sys
 
 </details>
   
-[Go to Top](#index)
+[Go to Top](#index)  
