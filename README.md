@@ -33,9 +33,9 @@ This is well-known terminal app. You can customize it and set status for mac.
   
 </details>
 
-*preference*
-*Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
-*Sync Preferences: ☁️, `~/Dropbox/application/Iterm2`* 
+*preference*  
+- *Add the Theme(gruvbox dark hard 256): [contribution](https://github.com/martinlindhe/base16-iterm2/tree/master/itermcolors)*
+- *Sync Preferences: ☁️, `~/Dropbox/application/Iterm2`* 
   
 [Go to Top](#index)  
 
