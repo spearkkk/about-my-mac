@@ -129,6 +129,8 @@ brew install fd
 brew install bat
 # https://github.com/BurntSushi/ripgrep
 brew install ripgrep
+# https://github.com/bootandy/dust
+brew install dust
 #
 # ### develop ###
 #
@@ -139,6 +141,8 @@ brew install kotlin
 # https://adoptium.net/index.html
 brew tap homebrew/cask-versions
 brew install --cask temurin8
+# https://github.com/jorgebucaran/nvm.fish
+fisher install jorgebucaran/nvm.fish
 # 
 # ### tools ###
 #
@@ -161,3 +165,14 @@ zoxide init fish | source
 ##### *mysql*
 1. https://hub.docker.com/_/mysql
 2. https://poiemaweb.com/docker-mysql
+
+##### *nvm*
+```sh
+nvm install lst
+nvm use [version]
+```
+
+```sh
+ln -s (which node) /usr/local/bin/node
+ln -s (which npm) /usr/local/bin/npm
+```
