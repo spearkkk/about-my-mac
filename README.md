@@ -1,6 +1,8 @@
 # Index
 <div align=center>
+  
   [tl;dr](./tl-dr/README.md)
+  
 </div>
 
 - [Chrome](#chrome)
