@@ -7,6 +7,7 @@
 ---
 
 # Index
+- [Homebrew](#homebrew)
 - [Chrome](#chrome)
 - [Iterm](#iterm)
 - [1password](#1password)
@@ -16,6 +17,14 @@
 - [Sublime Text](#sublime-text)
 - [IDEA](#idea)
 - [Things3](#things3)
+
+---
+### Homebrew
+This is **'Super Awwwwwwwwesome'** package manager.  
+If you are use this tool, you can save your time.  
+  
+*Install: [Official Link](https://docs.brew.sh/Installation)*  
+*Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*  
 
 ---
 ### Chrome

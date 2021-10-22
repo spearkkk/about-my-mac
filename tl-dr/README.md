@@ -2,14 +2,14 @@
 *Set Preference: [Link](../system_preferences/README.md)*
 
 ### Homebrew
-This is **'Super Awwwwwwwwesome'** package manager.  
-If you are use this tool, you can save your time.  
-  
-*Install: [Official Link](https://docs.brew.sh/Installation)*  
-*Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*  
+#### => 📍 On Terminal  
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 ---
-### `mas`
+### mas
 To download application in Mac App Store
   
 ```sh
@@ -20,7 +20,7 @@ mas signup [your apple id]
  ```
 
 ---
-### `fish`
+### fish
 ```sh
 brew install fish
 echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
@@ -33,7 +33,7 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-##### `fisher`
+##### fisher
 ```sh
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 ```
@@ -48,11 +48,17 @@ brew install starship
 starship init fish | source
 ```
 
+##### Iterm2
+```sh
+brew install --cask iterm2
+```
+
 ---
+#### => 📍 On Iterm2  
+
 ### Application
 ```sh
 brew install --cask google-chrome
-brew install --cask iterm2
 brew install --cask dropbox
 brew install --cask 1password
 brew install --cask alfred
@@ -167,6 +173,10 @@ zoxide init fish | source
 2. https://poiemaweb.com/docker-mysql
 
 ##### *nvm*
+```sh
+fisher install jorgebucaran/nvm.fish
+
+```
 ```sh
 nvm install lst
 nvm use [version]
