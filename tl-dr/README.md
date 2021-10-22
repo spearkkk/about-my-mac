@@ -48,7 +48,7 @@ brew install starship
 starship init fish | source
 ```
 
-##### Iterm2
+### Iterm2
 ```sh
 brew install --cask iterm2
 ```
