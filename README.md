@@ -1,5 +1,8 @@
 # Index
-[tl;dr](./tl-dr/README.md)
+<div align=center>
+  [tl;dr](./tl-dr/README.md)
+</div>
+
 - [Chrome](#chrome)
 - [Iterm](#iterm)
 - [1password](#1password)
