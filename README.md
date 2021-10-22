@@ -1,9 +1,6 @@
 <div align=center>
-  <h3>
-    
-    [tl;dr](./tl-dr/README.md)
-    
-  </h3>
+  
+  ### [tl;dr](./tl-dr/README.md)
   
 </div>
 
