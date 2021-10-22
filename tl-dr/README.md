@@ -137,6 +137,8 @@ brew install bat
 brew install ripgrep
 # https://github.com/bootandy/dust
 brew install dust
+# http://mama.indstate.edu/users/ice/tree/
+brew install tree
 #
 # ### develop ###
 #
