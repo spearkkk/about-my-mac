@@ -1,8 +1,8 @@
 ### System Prefernces
 *Set Preference: [Link](../system_preferences/README.md)*
 
+## => 📍 On Terminal  
 ### Homebrew
-#### => 📍 On Terminal  
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -54,7 +54,7 @@ brew install --cask iterm2
 ```
 
 ---
-#### => 📍 On Iterm2  
+## => 📍 On Iterm2  
 
 ### Application
 ```sh
