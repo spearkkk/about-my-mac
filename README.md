@@ -17,18 +17,23 @@
 - [Sublime Text](#sublime-text)
 - [IDEA](#idea)
 - [Things3](#things3)
+- [Terminal Tweaks](#terminal-tweaks)
 
 ---
 ### Homebrew
-This is **'Super Awwwwwwwwesome'** package manager.  
+This is **'Super Awwwwwwwwesome'** package manager, [official link](https://docs.brew.sh/Installation).  
 If you are use this tool, you can save your time.  
-  
-*Install: [Official Link](https://docs.brew.sh/Installation)*  
-*Open [Formulae Search](https://formulae.brew.sh/): To search application or cli*  
+
+To search application or cli: [formulae search](https://formulae.brew.sh/)
+
+[Go to Top](#index)  
 
 ---
 ### Chrome
-Default web browser, but sometimes I use Safari.
+Default web browser.
+
+##### Plugins
+- [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 *preference*
 - *`Font size`: 'Large'*
@@ -59,7 +64,7 @@ This is well-known terminal app. You can customize it and set status for mac.
 ---
 
 ### 1Password
-Password manager  
+Password manager.  
 If you stil rememeber you **password**, **license**, and **some secret thing** or write them to paper,  
 You can write them into [1Password](https://1password.com/) and get them when/what you want.  
 This app also supports IOS, web, and more.
