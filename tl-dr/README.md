@@ -71,7 +71,7 @@ brew install --cask intellij-idea
 mas install 904280696
 brew install —cask thingsmacsandboxhelper
 
-brew install docker
+brew install --cask docker
 brew install --cask paw
 brew install --cask dozer
 brew install --cask imazing
@@ -171,8 +171,8 @@ zoxide init fish | source
 ```
 
 ##### *mysql*
-1. https://hub.docker.com/_/mysql
-2. https://poiemaweb.com/docker-mysql
+1. https://hub.--cask docker.com/_/mysql
+2. https://poiemaweb.com/--cask docker-mysql
 
 ##### *nvm*
 ```sh
