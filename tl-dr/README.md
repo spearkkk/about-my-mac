@@ -107,6 +107,7 @@ brew install --cask pomotodo
 brew install --cask raindropio
 brew install --cask zoom
 brew install --cask keka
+brew install --cask slack
 ```
 
 ---
@@ -187,4 +188,13 @@ nvm use [version]
 ```sh
 ln -s (which node) /usr/local/bin/node
 ln -s (which npm) /usr/local/bin/npm
+```
+
+##### *nvm global cli*
+```sh
+npm config get prefix
+```
+```sh
+# ~/.config/fish/config.fish
+set PATH [npm config get prefix]/bin $PATH
 ```
