@@ -108,6 +108,7 @@ brew install --cask raindropio
 brew install --cask zoom
 brew install --cask keka
 brew install --cask slack
+brew install --cask responsively
 ```
 
 ---
