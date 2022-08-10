@@ -129,8 +129,6 @@ brew install bottom
 brew install choose-rust
 # https://github.com/ogham/exa
 brew install exa
-# set alias for exa
-alias --save l="exa -1la --icons --no-permissions -s modified"
 # https://github.com/sharkdp/fd
 brew install fd
 # https://github.com/sharkdp/bat
@@ -161,6 +159,12 @@ fisher install jorgebucaran/nvm.fish
 brew install youtube-dl
 # https://imagemagick.org/script/convert.php
 brew install imagemagick
+```
+
+### alias
+```sh
+# set alias for exa
+alias --save l="exa -1la --icons --no-permissions -s modified"
 ```
 
 ##### *[zoxide](https://github.com/ajeetdsouza/zoxide)*
@@ -198,4 +202,9 @@ npm config get prefix
 ```sh
 # ~/.config/fish/config.fish
 set PATH [npm config get prefix]/bin $PATH
+```
+
+### Flutter
+```sh
+brew install --cask flutter
 ```
