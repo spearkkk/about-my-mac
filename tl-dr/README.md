@@ -69,7 +69,7 @@ brew install --cask intellij-idea
 
 # 904280696 - mas search things3
 mas install 904280696
-brew install —cask thingsmacsandboxhelper
+brew install --cask thingsmacsandboxhelper
 
 brew install --cask docker
 brew install --cask paw
@@ -108,7 +108,6 @@ brew install --cask raindropio
 brew install --cask zoom
 brew install --cask keka
 brew install --cask slack
-brew install --cask responsively
 ```
 
 ---
