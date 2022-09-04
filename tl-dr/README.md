@@ -146,8 +146,8 @@ brew install gradle
 # https://kotlinlang.org/
 brew install kotlin
 # https://adoptium.net/index.html
-brew tap homebrew/cask-versions
-brew install --cask temurin8
+# brew tap homebrew/cask-versions
+# brew install --cask temurin8
 # https://github.com/jorgebucaran/nvm.fish
 fisher install jorgebucaran/nvm.fish
 # 
@@ -158,6 +158,8 @@ fisher install jorgebucaran/nvm.fish
 brew install youtube-dl
 # https://imagemagick.org/script/convert.php
 brew install imagemagick
+
+brew install --cask monitorcontrol
 ```
 
 ### alias
