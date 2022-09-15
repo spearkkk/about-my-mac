@@ -8,12 +8,22 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+### Iterm2
+```sh
+brew install --cask iterm2
+```
+
 ---
 ### fish
+[fishshell](https://fishshell.com/)
+[stackoverflow](https://stackoverflow.com/a/70203456/6766780)
 ```sh
 brew install fish
 echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/fish
+```
+```sh
+fish_add_path /opt/homebrew/bin
 ```
 
 ---
@@ -23,10 +33,6 @@ To download application in Mac App Store
 ```sh
 brew install mas
 ```
-```sh
-mas signup [your apple id]
- ```
-
 
 
 ##### Font: Hack
@@ -50,10 +56,7 @@ brew install starship
 starship init fish | source
 ```
 
-### Iterm2
-```sh
-brew install --cask iterm2
-```
+
 
 ---
 ## => 📍 On Iterm2  
