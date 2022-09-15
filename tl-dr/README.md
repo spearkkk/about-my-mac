@@ -9,6 +9,14 @@
 ```
 
 ---
+### fish
+```sh
+brew install fish
+echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+chsh -s /usr/local/bin/fish
+```
+
+---
 ### mas
 To download application in Mac App Store
   
@@ -19,13 +27,7 @@ brew install mas
 mas signup [your apple id]
  ```
 
----
-### fish
-```sh
-brew install fish
-echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
-chsh -s /usr/local/bin/fish
-```
+
 
 ##### Font: Hack
 ```sh
