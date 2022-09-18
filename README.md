@@ -1,4 +1,4 @@
-# This repository is depreacted. Please refer to [here](about.spearkkk.dev/mac)!!!
+# This repository is depreacted. Please refer to [here](http://about.spearkkk.dev/mac)!!!
 
 <div align=center>
   
