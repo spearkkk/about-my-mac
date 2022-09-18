@@ -1,3 +1,5 @@
+# This repository is depreacted. Please refer to [here](about.spearkkk.dev/mac)!!!
+
 <div align=center>
   
   ### [tl;dr](./tl-dr/README.md)
@@ -148,10 +150,11 @@ Just try to use this app.
 [Sublime Text](https://www.sublimetext.com/) is **Text Editor**, it is simple and fast.  
 
 *preference*  
-- *Install 'Package Controll'*
-- *Install Package 'A File Icon'*
-- *Install Package 'gruvbox'*
-- *Install Packge 'MarkdownPreview'*
+- *Install 'Package Controll'* (https://packagecontrol.io/packages/Package%20Control)
+- *Install Package 'A File Icon'* (https://packagecontrol.io/packages/A%20File%20Icon)
+- *Install Package 'gruvbox'* (https://packagecontrol.io/packages/gruvbox)
+- MarkdownEditing (https://packagecontrol.io/packages/MarkdownEditing)
+- *Install Packge 'MarkdownPreview'* (https://packagecontrol.io/packages/MarkdownPreview)
 - *Set Preference*  
 <details>
   <summary>Default Setting...</summary>
@@ -176,7 +179,7 @@ Just try to use this app.
 {
     /// gruvbox theme seting
     "theme": "gruvbox.sublime-theme",
-    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme",
+    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
     "gruvbox_accent_blue": true,
     "gruvbox_autocomplete_cramped": true,
     "gruvbox_sideline_autocomplete_row_thickest": true,
@@ -187,7 +190,6 @@ Just try to use this app.
     "gruvbox_sidebar_label_bold": true,
     "gruvbox_command_palette_compact": true,
     "gruvbox_statusbar_xl": true,
-    "gruvbox_statusbar_button_xs": true,
     "gruvbox_statusbar_font_size_15": true,
     "gruvbox_tabs_xxs": true,
     "gruvbox_tabs_font_size_15": true,
@@ -201,7 +203,6 @@ Just try to use this app.
     "gruvbox_disable_panels_button": true,
     "gruvbox_highlight_active_buttons": true,
     "gruvbox_highlight_active_tree_row": true,
-    "gruvbox_less_contrast": true, 
     "gruvbox_tabs_autowidth": true,  
     "gruvbox_tabs_bold": true,
 }

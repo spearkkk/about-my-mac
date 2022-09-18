@@ -59,7 +59,7 @@ starship init fish | source
 
 
 ---
-## => 📍 On Iterm2  
+## => 📍 On Iterm2
 
 ### Application
 ```sh
@@ -183,7 +183,7 @@ zoxide init fish | source
 ```
 
 ##### *mysql*
-1. https://hub.--cask docker.com/_/mysql
+1. https://hub.docker.com/_/mysql
 2. https://poiemaweb.com/--cask docker-mysql
 
 ##### *nvm*
